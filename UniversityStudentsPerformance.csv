@@ -1,0 +1,1001 @@
+,Student_ID,Admission_Essay,Feedback,Social_Media_Posts,Feedback_Sentiment
+0,1,research career study career career goal study study study career research,Excellent course!,Excited to start my journey at University XYZ!,1.0
+1,2,study career goal research goal research career passion research goal career research,Great professor and material.,Studying for finals. Wish me luck!,0.8
+2,3,passion study study goal research research study research research passion study career study,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+3,4,career passion goal research passion research goal goal passion goal career,Loved the practical projects.,Celebrating the end of the semester.,0.7
+4,5,research research research research career study,Excellent course!,Excited to start my journey at University XYZ!,1.0
+5,6,passion research goal research goal goal research career goal goal research goal goal research research passion career career,Great professor and material.,Studying for finals. Wish me luck!,0.8
+6,7,career goal passion research research research,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+7,8,passion career career passion passion passion passion research study study passion study study passion study career goal,Loved the practical projects.,Celebrating the end of the semester.,0.7
+8,9,goal passion research passion research goal passion career study research study,Excellent course!,Excited to start my journey at University XYZ!,1.0
+9,10,passion study career study passion career goal,Great professor and material.,Studying for finals. Wish me luck!,0.8
+10,11,study passion goal goal research career study passion research career research,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+11,12,career career study career research career study study research goal goal career passion career research research research research,Loved the practical projects.,Celebrating the end of the semester.,0.7
+12,13,study goal research passion passion passion passion study,Excellent course!,Excited to start my journey at University XYZ!,1.0
+13,14,passion research career passion study study passion career passion study goal research study passion research passion passion goal,Great professor and material.,Studying for finals. Wish me luck!,0.8
+14,15,research goal study passion career passion passion study,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+15,16,goal goal research career passion,Loved the practical projects.,Celebrating the end of the semester.,0.7
+16,17,study goal career research goal,Excellent course!,Excited to start my journey at University XYZ!,1.0
+17,18,research study study passion career research goal study passion passion,Great professor and material.,Studying for finals. Wish me luck!,0.8
+18,19,study career study research research study research study goal study study research research passion passion goal,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+19,20,passion study research passion passion goal goal study research goal passion research,Loved the practical projects.,Celebrating the end of the semester.,0.7
+20,21,passion goal passion research career career study passion passion study study study research passion research study,Excellent course!,Excited to start my journey at University XYZ!,1.0
+21,22,research research study passion study,Great professor and material.,Studying for finals. Wish me luck!,0.8
+22,23,career goal goal goal study career passion research passion research passion career research,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+23,24,study passion passion research study study career study study study goal career,Loved the practical projects.,Celebrating the end of the semester.,0.7
+24,25,passion research passion career research career study research study passion passion research research career career study research passion,Excellent course!,Excited to start my journey at University XYZ!,1.0
+25,26,career passion career study research passion research career career,Great professor and material.,Studying for finals. Wish me luck!,0.8
+26,27,passion study goal passion goal goal study goal goal study goal,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+27,28,goal passion passion passion study career,Loved the practical projects.,Celebrating the end of the semester.,0.7
+28,29,goal study goal passion career research goal passion research career research passion research study,Excellent course!,Excited to start my journey at University XYZ!,1.0
+29,30,research goal goal study passion goal career goal goal passion research,Great professor and material.,Studying for finals. Wish me luck!,0.8
+30,31,study research career passion career research research research career research career research study research,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+31,32,goal research goal study passion study research goal goal career goal career passion research career passion goal,Loved the practical projects.,Celebrating the end of the semester.,0.7
+32,33,passion goal passion career career passion career career career study research goal study career,Excellent course!,Excited to start my journey at University XYZ!,1.0
+33,34,passion career research career passion research career research goal goal,Great professor and material.,Studying for finals. Wish me luck!,0.8
+34,35,research passion career goal goal career research goal research,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+35,36,goal goal study goal passion career career research goal passion research study research research goal study research passion passion,Loved the practical projects.,Celebrating the end of the semester.,0.7
+36,37,study study career research study passion passion goal study research career career research goal career study goal,Excellent course!,Excited to start my journey at University XYZ!,1.0
+37,38,passion goal career goal goal goal goal,Great professor and material.,Studying for finals. Wish me luck!,0.8
+38,39,passion research goal career goal career study,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+39,40,research passion career career passion research goal career passion study passion study research goal passion career research,Loved the practical projects.,Celebrating the end of the semester.,0.7
+40,41,career passion study passion passion,Excellent course!,Excited to start my journey at University XYZ!,1.0
+41,42,research passion career study study,Great professor and material.,Studying for finals. Wish me luck!,0.8
+42,43,research research career passion study,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+43,44,passion research research study goal career career study research passion research study career research career passion,Loved the practical projects.,Celebrating the end of the semester.,0.7
+44,45,career career goal goal goal career study career study study goal,Excellent course!,Excited to start my journey at University XYZ!,1.0
+45,46,research passion goal goal research passion career career goal passion goal study goal goal career career career study career,Great professor and material.,Studying for finals. Wish me luck!,0.8
+46,47,research passion passion career research,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+47,48,research study career research study goal goal study,Loved the practical projects.,Celebrating the end of the semester.,0.7
+48,49,study career career goal research goal research research career passion passion,Excellent course!,Excited to start my journey at University XYZ!,1.0
+49,50,career research passion research passion passion passion,Great professor and material.,Studying for finals. Wish me luck!,0.8
+50,51,career goal research career career career career career study research,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+51,52,research study study research passion goal passion passion passion,Loved the practical projects.,Celebrating the end of the semester.,0.7
+52,53,study passion study research goal research research career goal,Excellent course!,Excited to start my journey at University XYZ!,1.0
+53,54,research goal goal research goal research research career passion research study passion passion passion career research,Great professor and material.,Studying for finals. Wish me luck!,0.8
+54,55,research career career study career goal study career passion goal goal goal study career career passion passion,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+55,56,passion study career goal passion study,Loved the practical projects.,Celebrating the end of the semester.,0.7
+56,57,passion career passion goal passion study passion career research passion career career study career career,Excellent course!,Excited to start my journey at University XYZ!,1.0
+57,58,career goal goal study passion career passion passion study,Great professor and material.,Studying for finals. Wish me luck!,0.8
+58,59,career research passion passion goal research goal goal goal study study goal research passion research career study,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+59,60,passion career career goal study study research goal goal goal goal study study,Loved the practical projects.,Celebrating the end of the semester.,0.7
+60,61,goal research passion passion research goal study passion career career research goal passion goal passion research research career goal,Excellent course!,Excited to start my journey at University XYZ!,1.0
+61,62,career goal career study study study study passion study research,Great professor and material.,Studying for finals. Wish me luck!,0.8
+62,63,research passion study study study career goal career goal study study career,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+63,64,goal research goal career career passion career passion research,Loved the practical projects.,Celebrating the end of the semester.,0.7
+64,65,goal passion goal career study passion goal passion passion study career passion goal research,Excellent course!,Excited to start my journey at University XYZ!,1.0
+65,66,passion study career research goal,Great professor and material.,Studying for finals. Wish me luck!,0.8
+66,67,goal career goal study study study study research career goal goal study study passion career research,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+67,68,passion passion goal research passion passion career research passion research goal study passion career,Loved the practical projects.,Celebrating the end of the semester.,0.7
+68,69,research goal passion research study goal,Excellent course!,Excited to start my journey at University XYZ!,1.0
+69,70,career research goal goal study study career career passion passion career career research,Great professor and material.,Studying for finals. Wish me luck!,0.8
+70,71,study passion study study career research goal research research study research passion study passion goal study goal study,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+71,72,research career goal research study research passion research passion research passion goal career study research career study,Loved the practical projects.,Celebrating the end of the semester.,0.7
+72,73,passion goal goal career goal research goal,Excellent course!,Excited to start my journey at University XYZ!,1.0
+73,74,goal research passion career passion passion passion study study passion career research research goal career study passion,Great professor and material.,Studying for finals. Wish me luck!,0.8
+74,75,research study study passion research career,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+75,76,study passion career research study career career career study study goal research,Loved the practical projects.,Celebrating the end of the semester.,0.7
+76,77,career goal passion goal study career passion passion passion passion passion goal career,Excellent course!,Excited to start my journey at University XYZ!,1.0
+77,78,study study study study goal research career passion research study research career,Great professor and material.,Studying for finals. Wish me luck!,0.8
+78,79,passion passion career career study passion research goal goal career,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+79,80,goal passion career research career research career career career research research career goal study study,Loved the practical projects.,Celebrating the end of the semester.,0.7
+80,81,research research goal study study career research,Excellent course!,Excited to start my journey at University XYZ!,1.0
+81,82,goal goal study research goal career goal passion passion research study research research research research,Great professor and material.,Studying for finals. Wish me luck!,0.8
+82,83,career goal passion research goal passion study career passion,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+83,84,study passion career career goal research passion passion study career,Loved the practical projects.,Celebrating the end of the semester.,0.7
+84,85,passion career passion goal research passion career goal passion study research passion goal study goal goal study goal study,Excellent course!,Excited to start my journey at University XYZ!,1.0
+85,86,study study research study study,Great professor and material.,Studying for finals. Wish me luck!,0.8
+86,87,passion research career passion passion career study goal research goal,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+87,88,passion passion research passion passion research research career passion,Loved the practical projects.,Celebrating the end of the semester.,0.7
+88,89,passion career study study study career passion career career study goal,Excellent course!,Excited to start my journey at University XYZ!,1.0
+89,90,study goal goal research passion,Great professor and material.,Studying for finals. Wish me luck!,0.8
+90,91,study research passion career study goal,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+91,92,study goal research passion research goal career passion passion study study career passion career,Loved the practical projects.,Celebrating the end of the semester.,0.7
+92,93,study passion research goal study study research,Excellent course!,Excited to start my journey at University XYZ!,1.0
+93,94,career career goal goal passion career study career,Great professor and material.,Studying for finals. Wish me luck!,0.8
+94,95,research career research goal goal passion career,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+95,96,study goal goal study research research career career,Loved the practical projects.,Celebrating the end of the semester.,0.7
+96,97,passion goal career research study research goal research passion goal,Excellent course!,Excited to start my journey at University XYZ!,1.0
+97,98,study passion goal study passion passion goal career passion passion study research goal goal career career goal career,Great professor and material.,Studying for finals. Wish me luck!,0.8
+98,99,goal career goal research passion goal passion career passion goal research career goal career study,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+99,100,study goal research career passion career goal career passion goal career research goal,Loved the practical projects.,Celebrating the end of the semester.,0.7
+100,101,goal research study passion study career research study goal career career study study research passion study study goal,Excellent course!,Excited to start my journey at University XYZ!,1.0
+101,102,career passion goal research research study study research study passion study,Great professor and material.,Studying for finals. Wish me luck!,0.8
+102,103,study goal passion goal goal career passion passion passion passion passion career study goal passion study study,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+103,104,career research research study goal research,Loved the practical projects.,Celebrating the end of the semester.,0.7
+104,105,career research study study passion career passion,Excellent course!,Excited to start my journey at University XYZ!,1.0
+105,106,passion passion research study career passion career passion goal passion research study goal passion,Great professor and material.,Studying for finals. Wish me luck!,0.8
+106,107,goal goal passion goal career goal career passion study goal study career goal research study goal study,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+107,108,passion study research research career goal study career study goal research passion research career,Loved the practical projects.,Celebrating the end of the semester.,0.7
+108,109,passion career goal passion career goal research goal study goal,Excellent course!,Excited to start my journey at University XYZ!,1.0
+109,110,study career career goal study study,Great professor and material.,Studying for finals. Wish me luck!,0.8
+110,111,research career passion career career research passion research passion goal passion,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+111,112,research career passion passion study career goal research goal career passion passion career passion passion passion research research study,Loved the practical projects.,Celebrating the end of the semester.,0.7
+112,113,career career career study research study career goal passion research research study research career,Excellent course!,Excited to start my journey at University XYZ!,1.0
+113,114,career study career goal study goal passion goal passion passion goal study career career passion passion study research goal,Great professor and material.,Studying for finals. Wish me luck!,0.8
+114,115,career study goal study goal,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+115,116,passion study study career career passion,Loved the practical projects.,Celebrating the end of the semester.,0.7
+116,117,research career goal study passion study study research career passion study passion goal,Excellent course!,Excited to start my journey at University XYZ!,1.0
+117,118,goal passion passion career study study goal research study career goal goal career research career research,Great professor and material.,Studying for finals. Wish me luck!,0.8
+118,119,career passion goal career career study goal study goal,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+119,120,study career career passion study research passion study study passion career study,Loved the practical projects.,Celebrating the end of the semester.,0.7
+120,121,passion career goal research study research career study career goal passion study goal goal study career goal,Excellent course!,Excited to start my journey at University XYZ!,1.0
+121,122,goal career career research goal career study passion,Great professor and material.,Studying for finals. Wish me luck!,0.8
+122,123,passion goal research career study study goal passion goal research research career career,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+123,124,research research research goal research study passion research passion goal,Loved the practical projects.,Celebrating the end of the semester.,0.7
+124,125,passion goal study goal goal career research research study study,Excellent course!,Excited to start my journey at University XYZ!,1.0
+125,126,career research career study passion study study goal,Great professor and material.,Studying for finals. Wish me luck!,0.8
+126,127,goal goal goal career research passion study career passion career career,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+127,128,research goal research study study study passion research research career career career study research study,Loved the practical projects.,Celebrating the end of the semester.,0.7
+128,129,career study study passion goal research goal career study passion passion research goal,Excellent course!,Excited to start my journey at University XYZ!,1.0
+129,130,research study research passion passion career career study goal research study career research career research goal study research passion,Great professor and material.,Studying for finals. Wish me luck!,0.8
+130,131,passion research research research passion passion research career career goal study career passion career goal goal study career,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+131,132,passion research passion study study passion passion research passion research research passion goal,Loved the practical projects.,Celebrating the end of the semester.,0.7
+132,133,goal research passion goal passion passion passion career passion career research goal,Excellent course!,Excited to start my journey at University XYZ!,1.0
+133,134,goal goal goal goal goal goal research passion study career,Great professor and material.,Studying for finals. Wish me luck!,0.8
+134,135,study passion passion passion goal research goal,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+135,136,research study study research research goal goal study passion research goal study goal research research career,Loved the practical projects.,Celebrating the end of the semester.,0.7
+136,137,career study goal study research career career career study research goal goal study,Excellent course!,Excited to start my journey at University XYZ!,1.0
+137,138,career passion study study research goal study study career career,Great professor and material.,Studying for finals. Wish me luck!,0.8
+138,139,passion research passion career goal career research career research research,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+139,140,research research goal passion study passion research goal career goal research goal goal research goal study,Loved the practical projects.,Celebrating the end of the semester.,0.7
+140,141,goal career research study career goal career,Excellent course!,Excited to start my journey at University XYZ!,1.0
+141,142,passion study goal research goal research goal career career career passion research career passion research goal passion study passion,Great professor and material.,Studying for finals. Wish me luck!,0.8
+142,143,research goal study career career passion research research career study goal study goal,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+143,144,goal research passion passion career research study research passion passion research research passion study career career research,Loved the practical projects.,Celebrating the end of the semester.,0.7
+144,145,passion passion research research research study career research goal,Excellent course!,Excited to start my journey at University XYZ!,1.0
+145,146,goal passion career research goal career passion study career career study career passion passion study research goal research,Great professor and material.,Studying for finals. Wish me luck!,0.8
+146,147,goal study study goal passion goal career passion study,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+147,148,research research career research goal goal,Loved the practical projects.,Celebrating the end of the semester.,0.7
+148,149,goal career passion career career goal passion goal study goal goal goal passion goal passion research,Excellent course!,Excited to start my journey at University XYZ!,1.0
+149,150,passion research passion passion study career career passion goal research goal goal passion passion passion,Great professor and material.,Studying for finals. Wish me luck!,0.8
+150,151,career passion career career passion study research goal career research study goal goal,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+151,152,passion study career study passion passion career passion research goal career study research career passion passion passion,Loved the practical projects.,Celebrating the end of the semester.,0.7
+152,153,study research goal study study,Excellent course!,Excited to start my journey at University XYZ!,1.0
+153,154,goal goal passion study career goal goal research career career goal passion,Great professor and material.,Studying for finals. Wish me luck!,0.8
+154,155,career goal career research research study goal research study study career career study career research passion,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+155,156,study study research career career study goal career,Loved the practical projects.,Celebrating the end of the semester.,0.7
+156,157,career research study career research study goal research,Excellent course!,Excited to start my journey at University XYZ!,1.0
+157,158,goal goal passion career research goal passion study research goal career passion goal career goal research research research,Great professor and material.,Studying for finals. Wish me luck!,0.8
+158,159,passion research career goal study career career research passion goal,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+159,160,goal goal passion career goal passion goal study career research goal study research,Loved the practical projects.,Celebrating the end of the semester.,0.7
+160,161,goal passion goal study research goal passion goal career passion study research goal passion career passion,Excellent course!,Excited to start my journey at University XYZ!,1.0
+161,162,career study research study goal passion career career passion passion,Great professor and material.,Studying for finals. Wish me luck!,0.8
+162,163,study career goal study goal career,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+163,164,passion passion study research study research goal goal career research career,Loved the practical projects.,Celebrating the end of the semester.,0.7
+164,165,research study passion passion study,Excellent course!,Excited to start my journey at University XYZ!,1.0
+165,166,passion research career passion research goal research career research study,Great professor and material.,Studying for finals. Wish me luck!,0.8
+166,167,goal study research career goal study goal research goal,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+167,168,passion study goal research research goal research career career career,Loved the practical projects.,Celebrating the end of the semester.,0.7
+168,169,passion goal passion research passion research research study career research study career research research passion passion career research goal,Excellent course!,Excited to start my journey at University XYZ!,1.0
+169,170,passion career research research goal career research passion goal career goal passion,Great professor and material.,Studying for finals. Wish me luck!,0.8
+170,171,goal study passion passion passion study study research goal,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+171,172,goal study study research career research goal research,Loved the practical projects.,Celebrating the end of the semester.,0.7
+172,173,passion goal goal career study goal study research passion career study goal study goal study goal research goal goal,Excellent course!,Excited to start my journey at University XYZ!,1.0
+173,174,goal passion career passion research passion career research study study passion passion career,Great professor and material.,Studying for finals. Wish me luck!,0.8
+174,175,goal career goal research passion research career research research,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+175,176,career research goal career research career study goal research study study career study goal goal passion,Loved the practical projects.,Celebrating the end of the semester.,0.7
+176,177,study goal career passion study passion,Excellent course!,Excited to start my journey at University XYZ!,1.0
+177,178,career passion research study research passion research,Great professor and material.,Studying for finals. Wish me luck!,0.8
+178,179,passion career research research career research research research,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+179,180,goal career research career study study research career career career,Loved the practical projects.,Celebrating the end of the semester.,0.7
+180,181,goal study career career goal goal career passion career career goal goal career career career goal career career,Excellent course!,Excited to start my journey at University XYZ!,1.0
+181,182,passion study passion research study career research career,Great professor and material.,Studying for finals. Wish me luck!,0.8
+182,183,research goal research research goal study passion career research career goal career goal career,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+183,184,passion passion passion passion passion,Loved the practical projects.,Celebrating the end of the semester.,0.7
+184,185,research career passion goal goal goal,Excellent course!,Excited to start my journey at University XYZ!,1.0
+185,186,career research study goal study passion passion research career study career research passion career career passion,Great professor and material.,Studying for finals. Wish me luck!,0.8
+186,187,study passion career study study passion career research career goal research,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+187,188,research study study research study study goal career career goal research passion passion passion goal,Loved the practical projects.,Celebrating the end of the semester.,0.7
+188,189,goal study passion research research passion passion passion goal goal goal career research research study goal career career research,Excellent course!,Excited to start my journey at University XYZ!,1.0
+189,190,study goal passion goal passion passion,Great professor and material.,Studying for finals. Wish me luck!,0.8
+190,191,study research goal passion goal research research career research study passion career,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+191,192,goal passion research passion goal career career,Loved the practical projects.,Celebrating the end of the semester.,0.7
+192,193,career research study study passion research career career goal goal career career research study goal study research career,Excellent course!,Excited to start my journey at University XYZ!,1.0
+193,194,study career career passion study study career research passion career,Great professor and material.,Studying for finals. Wish me luck!,0.8
+194,195,goal goal passion research career study passion research study goal goal study passion goal career study study goal passion,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+195,196,passion research research goal goal goal research passion passion goal career passion research study study study career,Loved the practical projects.,Celebrating the end of the semester.,0.7
+196,197,research career research research goal study goal career career career goal research research passion,Excellent course!,Excited to start my journey at University XYZ!,1.0
+197,198,research passion research career study career goal research research goal goal study research research study passion study,Great professor and material.,Studying for finals. Wish me luck!,0.8
+198,199,career research goal career research study career research passion passion,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+199,200,research passion study research study study,Loved the practical projects.,Celebrating the end of the semester.,0.7
+200,201,research career passion passion research research study research study passion goal career passion,Excellent course!,Excited to start my journey at University XYZ!,1.0
+201,202,career goal goal study career study passion career,Great professor and material.,Studying for finals. Wish me luck!,0.8
+202,203,passion study career study career study goal study goal study,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+203,204,career career research passion career goal career research goal,Loved the practical projects.,Celebrating the end of the semester.,0.7
+204,205,goal study passion passion research passion research research,Excellent course!,Excited to start my journey at University XYZ!,1.0
+205,206,passion research passion research career research goal research study research goal goal passion career research passion,Great professor and material.,Studying for finals. Wish me luck!,0.8
+206,207,research study research goal goal study passion career research goal passion study goal study research career goal,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+207,208,research passion career goal career goal career study goal career passion study study passion,Loved the practical projects.,Celebrating the end of the semester.,0.7
+208,209,research passion career passion passion goal career research goal,Excellent course!,Excited to start my journey at University XYZ!,1.0
+209,210,passion passion career career goal research goal study passion passion passion goal goal,Great professor and material.,Studying for finals. Wish me luck!,0.8
+210,211,goal career career goal passion,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+211,212,goal goal study career research research,Loved the practical projects.,Celebrating the end of the semester.,0.7
+212,213,goal study study passion career research goal research research career research research study career passion,Excellent course!,Excited to start my journey at University XYZ!,1.0
+213,214,goal research goal passion goal passion study research passion goal research study,Great professor and material.,Studying for finals. Wish me luck!,0.8
+214,215,research passion study goal study study career study study research,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+215,216,research research passion research career career passion goal goal research research research goal study,Loved the practical projects.,Celebrating the end of the semester.,0.7
+216,217,study study goal study passion research passion career research study career research study passion research study passion,Excellent course!,Excited to start my journey at University XYZ!,1.0
+217,218,career career career career goal research research goal study study career passion study passion research passion research goal goal,Great professor and material.,Studying for finals. Wish me luck!,0.8
+218,219,career study career research career passion research goal study research research passion study goal research research passion career,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+219,220,goal study research research goal career research goal passion career study research,Loved the practical projects.,Celebrating the end of the semester.,0.7
+220,221,passion study goal goal study passion,Excellent course!,Excited to start my journey at University XYZ!,1.0
+221,222,passion career research study study study passion research career goal goal,Great professor and material.,Studying for finals. Wish me luck!,0.8
+222,223,research passion research research passion study research,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+223,224,passion career study passion career career research research research passion passion study research career,Loved the practical projects.,Celebrating the end of the semester.,0.7
+224,225,goal study passion study study study study goal research career study study study research passion passion goal passion study,Excellent course!,Excited to start my journey at University XYZ!,1.0
+225,226,study study goal study passion research research career passion study research passion research study research career career research,Great professor and material.,Studying for finals. Wish me luck!,0.8
+226,227,passion passion passion research passion study career study passion study passion research,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+227,228,research research goal passion career passion career passion research study study goal career career career,Loved the practical projects.,Celebrating the end of the semester.,0.7
+228,229,career study research passion career career passion career,Excellent course!,Excited to start my journey at University XYZ!,1.0
+229,230,research study passion goal passion career research research passion study goal research career,Great professor and material.,Studying for finals. Wish me luck!,0.8
+230,231,career study research passion career study research research research research,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+231,232,research career study research goal goal study passion passion passion,Loved the practical projects.,Celebrating the end of the semester.,0.7
+232,233,passion career research goal study study,Excellent course!,Excited to start my journey at University XYZ!,1.0
+233,234,goal passion passion career career passion study study career research passion career career passion passion study,Great professor and material.,Studying for finals. Wish me luck!,0.8
+234,235,research passion goal career career passion goal study,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+235,236,passion passion career passion passion passion career study study passion,Loved the practical projects.,Celebrating the end of the semester.,0.7
+236,237,career study study study career career passion research study research career,Excellent course!,Excited to start my journey at University XYZ!,1.0
+237,238,career research career passion career goal research goal career,Great professor and material.,Studying for finals. Wish me luck!,0.8
+238,239,passion study career passion research goal goal goal research passion research goal,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+239,240,study research research passion passion research goal study passion,Loved the practical projects.,Celebrating the end of the semester.,0.7
+240,241,goal career passion goal goal study study career goal goal study,Excellent course!,Excited to start my journey at University XYZ!,1.0
+241,242,passion passion research study research study career goal career study,Great professor and material.,Studying for finals. Wish me luck!,0.8
+242,243,goal passion passion research study study passion career goal career career passion passion passion research career study goal,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+243,244,study career passion career goal research research goal,Loved the practical projects.,Celebrating the end of the semester.,0.7
+244,245,study research research passion study goal study,Excellent course!,Excited to start my journey at University XYZ!,1.0
+245,246,research research passion goal research career research career passion passion research study career,Great professor and material.,Studying for finals. Wish me luck!,0.8
+246,247,research goal research study study study study passion passion career goal research research passion,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+247,248,research passion career goal career study study study career research goal study study study goal study goal study career,Loved the practical projects.,Celebrating the end of the semester.,0.7
+248,249,career goal career goal career career goal research career study research goal research passion passion career career study research,Excellent course!,Excited to start my journey at University XYZ!,1.0
+249,250,career research career career passion,Great professor and material.,Studying for finals. Wish me luck!,0.8
+250,251,career goal career career study,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+251,252,study study goal goal career study goal passion career research career,Loved the practical projects.,Celebrating the end of the semester.,0.7
+252,253,study research study passion research career study career goal study research study career passion study research,Excellent course!,Excited to start my journey at University XYZ!,1.0
+253,254,passion goal study career career research,Great professor and material.,Studying for finals. Wish me luck!,0.8
+254,255,passion career research study study career goal study career,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+255,256,research career study research career passion research passion goal research passion study study goal research research research goal research,Loved the practical projects.,Celebrating the end of the semester.,0.7
+256,257,study passion study study passion study goal passion study career,Excellent course!,Excited to start my journey at University XYZ!,1.0
+257,258,study goal research study research career study passion research career passion passion passion passion study study study career,Great professor and material.,Studying for finals. Wish me luck!,0.8
+258,259,career goal career study study goal goal career research goal passion study passion study study goal goal,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+259,260,study passion research passion career,Loved the practical projects.,Celebrating the end of the semester.,0.7
+260,261,career career career research passion,Excellent course!,Excited to start my journey at University XYZ!,1.0
+261,262,passion research study goal passion goal research study study study research career career goal career career study study goal,Great professor and material.,Studying for finals. Wish me luck!,0.8
+262,263,passion goal goal research research goal goal goal career research goal study,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+263,264,study career career passion passion passion career career career study career study,Loved the practical projects.,Celebrating the end of the semester.,0.7
+264,265,passion passion goal goal research research research goal goal research research career research,Excellent course!,Excited to start my journey at University XYZ!,1.0
+265,266,study goal research goal goal goal study passion research passion passion passion goal career goal goal passion,Great professor and material.,Studying for finals. Wish me luck!,0.8
+266,267,goal passion career research passion career research study passion passion study,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+267,268,passion study goal research research research goal,Loved the practical projects.,Celebrating the end of the semester.,0.7
+268,269,study career study passion research study career passion goal goal career passion research study passion goal career career study,Excellent course!,Excited to start my journey at University XYZ!,1.0
+269,270,career passion research study passion research passion passion career research study study research career goal passion career,Great professor and material.,Studying for finals. Wish me luck!,0.8
+270,271,research passion study goal study research passion research passion career,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+271,272,career career research goal passion passion,Loved the practical projects.,Celebrating the end of the semester.,0.7
+272,273,study passion research career career career goal passion research goal,Excellent course!,Excited to start my journey at University XYZ!,1.0
+273,274,research research research career research passion research,Great professor and material.,Studying for finals. Wish me luck!,0.8
+274,275,research study study career passion passion goal career research,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+275,276,career goal career career goal passion research goal study passion study passion research research career study passion research goal,Loved the practical projects.,Celebrating the end of the semester.,0.7
+276,277,goal passion research research passion research goal research study career goal study passion goal career career,Excellent course!,Excited to start my journey at University XYZ!,1.0
+277,278,passion goal research passion research study career research career research study passion study,Great professor and material.,Studying for finals. Wish me luck!,0.8
+278,279,passion passion career study research study career passion career goal goal research,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+279,280,research research goal research goal passion career research goal study research passion passion study goal research goal,Loved the practical projects.,Celebrating the end of the semester.,0.7
+280,281,goal passion goal study career study study career career research research study study,Excellent course!,Excited to start my journey at University XYZ!,1.0
+281,282,passion research research passion passion,Great professor and material.,Studying for finals. Wish me luck!,0.8
+282,283,goal goal passion goal career research research passion study passion goal study goal career goal career career goal,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+283,284,goal career study career research career study research passion passion study career goal study research research passion research,Loved the practical projects.,Celebrating the end of the semester.,0.7
+284,285,research study goal passion research study career,Excellent course!,Excited to start my journey at University XYZ!,1.0
+285,286,goal study goal goal research research study career study career goal passion study,Great professor and material.,Studying for finals. Wish me luck!,0.8
+286,287,career goal goal career goal research passion study passion study research goal career research passion,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+287,288,goal research career research research goal study career goal,Loved the practical projects.,Celebrating the end of the semester.,0.7
+288,289,goal study career study passion career study research career career goal research passion study goal study,Excellent course!,Excited to start my journey at University XYZ!,1.0
+289,290,passion career passion study research,Great professor and material.,Studying for finals. Wish me luck!,0.8
+290,291,career study study passion study goal passion goal,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+291,292,research career research career study goal research passion goal passion goal goal career research research goal study,Loved the practical projects.,Celebrating the end of the semester.,0.7
+292,293,passion passion career goal passion passion goal career passion career research career study study career,Excellent course!,Excited to start my journey at University XYZ!,1.0
+293,294,research goal study study career research goal,Great professor and material.,Studying for finals. Wish me luck!,0.8
+294,295,career career research goal research goal research career career passion study research,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+295,296,passion study research goal study career passion study study career research goal career goal research study goal passion,Loved the practical projects.,Celebrating the end of the semester.,0.7
+296,297,career research career career career,Excellent course!,Excited to start my journey at University XYZ!,1.0
+297,298,passion passion career passion research career passion goal career career research study study research research research study research,Great professor and material.,Studying for finals. Wish me luck!,0.8
+298,299,passion career career goal goal career passion study study passion study research career career passion study goal goal study,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+299,300,passion passion study goal passion passion,Loved the practical projects.,Celebrating the end of the semester.,0.7
+300,301,research passion study career career passion passion passion,Excellent course!,Excited to start my journey at University XYZ!,1.0
+301,302,research passion passion goal study passion goal,Great professor and material.,Studying for finals. Wish me luck!,0.8
+302,303,career passion passion goal study passion career passion career research research,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+303,304,study passion passion research career passion passion study goal,Loved the practical projects.,Celebrating the end of the semester.,0.7
+304,305,research research goal passion study study research study goal passion goal career research study career study passion passion passion,Excellent course!,Excited to start my journey at University XYZ!,1.0
+305,306,study career passion career study career study study research study study goal,Great professor and material.,Studying for finals. Wish me luck!,0.8
+306,307,research research research goal study passion career study goal study study goal research,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+307,308,research passion passion research career study career study research passion passion career,Loved the practical projects.,Celebrating the end of the semester.,0.7
+308,309,research career study passion goal passion study career study goal research passion career,Excellent course!,Excited to start my journey at University XYZ!,1.0
+309,310,study career research career goal goal passion passion,Great professor and material.,Studying for finals. Wish me luck!,0.8
+310,311,goal career goal passion goal goal career research passion career goal goal,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+311,312,passion passion study passion research study study goal,Loved the practical projects.,Celebrating the end of the semester.,0.7
+312,313,passion study goal research goal goal,Excellent course!,Excited to start my journey at University XYZ!,1.0
+313,314,study career research study passion research research study research study goal career goal study study,Great professor and material.,Studying for finals. Wish me luck!,0.8
+314,315,passion passion passion study research study research goal career research passion study goal passion,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+315,316,career study study career study research goal passion career research passion passion career research,Loved the practical projects.,Celebrating the end of the semester.,0.7
+316,317,passion passion research study passion goal research passion career goal passion,Excellent course!,Excited to start my journey at University XYZ!,1.0
+317,318,goal study goal study research study career passion research research career study passion study,Great professor and material.,Studying for finals. Wish me luck!,0.8
+318,319,study research passion study passion passion goal goal research career passion career research passion,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+319,320,career study goal study career goal study goal passion study goal goal goal,Loved the practical projects.,Celebrating the end of the semester.,0.7
+320,321,study research study career study goal passion study study goal,Excellent course!,Excited to start my journey at University XYZ!,1.0
+321,322,passion career study passion passion,Great professor and material.,Studying for finals. Wish me luck!,0.8
+322,323,research passion career passion goal study career goal career goal study study research goal research goal,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+323,324,study career research goal goal study goal passion career research career study research research passion study,Loved the practical projects.,Celebrating the end of the semester.,0.7
+324,325,goal passion passion career career career passion goal research career goal study career research study study research career,Excellent course!,Excited to start my journey at University XYZ!,1.0
+325,326,research research research study goal,Great professor and material.,Studying for finals. Wish me luck!,0.8
+326,327,passion career career goal research passion career career research goal passion,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+327,328,goal passion passion career career passion study career study passion career goal passion research,Loved the practical projects.,Celebrating the end of the semester.,0.7
+328,329,study passion passion career career career research career passion career goal,Excellent course!,Excited to start my journey at University XYZ!,1.0
+329,330,research goal passion passion study goal study goal goal,Great professor and material.,Studying for finals. Wish me luck!,0.8
+330,331,research study research goal passion goal research study study research study career passion passion passion study study goal goal,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+331,332,career goal goal study career,Loved the practical projects.,Celebrating the end of the semester.,0.7
+332,333,passion goal career career passion career career career goal passion,Excellent course!,Excited to start my journey at University XYZ!,1.0
+333,334,career career goal passion study goal passion career passion passion passion,Great professor and material.,Studying for finals. Wish me luck!,0.8
+334,335,passion study career study career career study goal research passion research passion passion career passion,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+335,336,passion study research study passion career study study goal passion,Loved the practical projects.,Celebrating the end of the semester.,0.7
+336,337,study study career passion goal study goal research passion research research research passion passion career goal goal,Excellent course!,Excited to start my journey at University XYZ!,1.0
+337,338,career research career study goal career study study study study research study research research study goal study,Great professor and material.,Studying for finals. Wish me luck!,0.8
+338,339,study goal passion passion research research goal career passion research passion goal goal career career,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+339,340,goal research passion study career study research career study research passion research career goal passion study career goal,Loved the practical projects.,Celebrating the end of the semester.,0.7
+340,341,goal career career goal research goal career career,Excellent course!,Excited to start my journey at University XYZ!,1.0
+341,342,study passion career study goal research goal research study passion goal goal goal research study,Great professor and material.,Studying for finals. Wish me luck!,0.8
+342,343,goal passion passion study study career passion career research career goal career study research,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+343,344,goal career research research goal career research research passion research passion,Loved the practical projects.,Celebrating the end of the semester.,0.7
+344,345,career career study career research goal passion study career,Excellent course!,Excited to start my journey at University XYZ!,1.0
+345,346,career goal goal study passion career study research research study career,Great professor and material.,Studying for finals. Wish me luck!,0.8
+346,347,study career goal study career study study career career passion study research study study career study study research career,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+347,348,goal passion research study goal study study,Loved the practical projects.,Celebrating the end of the semester.,0.7
+348,349,career career goal study passion research career career study,Excellent course!,Excited to start my journey at University XYZ!,1.0
+349,350,goal goal career study passion research study study goal research career study career study career,Great professor and material.,Studying for finals. Wish me luck!,0.8
+350,351,goal research passion goal research passion study study career goal study goal study career research career,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+351,352,passion study passion passion goal study passion research passion research goal,Loved the practical projects.,Celebrating the end of the semester.,0.7
+352,353,passion career goal research goal passion study study research research study research goal career career goal career passion goal,Excellent course!,Excited to start my journey at University XYZ!,1.0
+353,354,goal study research study research career goal passion,Great professor and material.,Studying for finals. Wish me luck!,0.8
+354,355,research study career study study career passion study,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+355,356,research career goal passion passion career research,Loved the practical projects.,Celebrating the end of the semester.,0.7
+356,357,career research passion passion goal career study study goal goal research goal goal study research goal,Excellent course!,Excited to start my journey at University XYZ!,1.0
+357,358,goal research career research study career passion research study career,Great professor and material.,Studying for finals. Wish me luck!,0.8
+358,359,research goal research passion research career career research career goal research goal goal study research career goal study,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+359,360,research passion passion goal passion goal career goal passion career passion goal study research passion goal,Loved the practical projects.,Celebrating the end of the semester.,0.7
+360,361,career passion passion research goal study career goal career passion research research study research passion study goal research study,Excellent course!,Excited to start my journey at University XYZ!,1.0
+361,362,career career passion passion career study career passion research goal research research passion,Great professor and material.,Studying for finals. Wish me luck!,0.8
+362,363,study research career study research study career goal career passion study goal study study research passion study,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+363,364,career career research passion passion career goal research research career career goal goal passion research research career passion research,Loved the practical projects.,Celebrating the end of the semester.,0.7
+364,365,passion career passion goal goal,Excellent course!,Excited to start my journey at University XYZ!,1.0
+365,366,career study goal study career career passion research passion career goal goal passion career goal,Great professor and material.,Studying for finals. Wish me luck!,0.8
+366,367,goal career study career career passion study research passion research goal research career research passion passion research,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+367,368,passion research study study goal passion research passion career passion passion study research,Loved the practical projects.,Celebrating the end of the semester.,0.7
+368,369,study goal study study study,Excellent course!,Excited to start my journey at University XYZ!,1.0
+369,370,passion passion goal career career career goal career career study passion passion study study study passion career study goal,Great professor and material.,Studying for finals. Wish me luck!,0.8
+370,371,study research study passion study research goal career study research research goal passion study research goal career research goal,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+371,372,passion research research study goal,Loved the practical projects.,Celebrating the end of the semester.,0.7
+372,373,study study research passion goal goal passion research goal research research study passion research career passion,Excellent course!,Excited to start my journey at University XYZ!,1.0
+373,374,goal study goal goal passion goal research goal study study career study goal study passion study research passion career,Great professor and material.,Studying for finals. Wish me luck!,0.8
+374,375,goal goal goal research research research passion passion goal study goal career passion research passion research,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+375,376,career career passion research career goal goal research passion career,Loved the practical projects.,Celebrating the end of the semester.,0.7
+376,377,passion goal career passion study research research study goal career research study,Excellent course!,Excited to start my journey at University XYZ!,1.0
+377,378,study goal goal passion research passion study career career goal,Great professor and material.,Studying for finals. Wish me luck!,0.8
+378,379,career career study career career career passion study goal passion research study study research research research goal,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+379,380,study career career research goal passion goal career goal research passion research passion career passion passion passion,Loved the practical projects.,Celebrating the end of the semester.,0.7
+380,381,goal goal career passion study career passion passion goal career passion passion career study career career study career passion,Excellent course!,Excited to start my journey at University XYZ!,1.0
+381,382,career study research career goal passion passion goal goal career goal research study goal goal research passion passion career,Great professor and material.,Studying for finals. Wish me luck!,0.8
+382,383,research study study research study passion study study research research study,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+383,384,research career career passion study goal passion study research career goal career research study,Loved the practical projects.,Celebrating the end of the semester.,0.7
+384,385,research career goal research career goal study study passion career goal research study goal career passion,Excellent course!,Excited to start my journey at University XYZ!,1.0
+385,386,goal goal goal career career career research,Great professor and material.,Studying for finals. Wish me luck!,0.8
+386,387,study career career goal career research,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+387,388,career goal goal goal passion career goal research,Loved the practical projects.,Celebrating the end of the semester.,0.7
+388,389,study study goal study study passion research research passion passion,Excellent course!,Excited to start my journey at University XYZ!,1.0
+389,390,career study passion research study career study,Great professor and material.,Studying for finals. Wish me luck!,0.8
+390,391,study passion research research passion goal passion study passion passion goal study career career,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+391,392,research passion research goal career passion goal goal passion goal passion passion study research goal goal study study study,Loved the practical projects.,Celebrating the end of the semester.,0.7
+392,393,career career passion goal research passion goal goal study,Excellent course!,Excited to start my journey at University XYZ!,1.0
+393,394,passion study goal study career study goal passion research study goal research research career research,Great professor and material.,Studying for finals. Wish me luck!,0.8
+394,395,goal goal study study study research research career study passion career,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+395,396,research career career goal research,Loved the practical projects.,Celebrating the end of the semester.,0.7
+396,397,career research career goal career research research career career career study research research study career goal,Excellent course!,Excited to start my journey at University XYZ!,1.0
+397,398,career study research career research passion research goal goal,Great professor and material.,Studying for finals. Wish me luck!,0.8
+398,399,research career study goal career study career research research,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+399,400,research passion study study research passion research passion,Loved the practical projects.,Celebrating the end of the semester.,0.7
+400,401,goal goal career research study career goal research,Excellent course!,Excited to start my journey at University XYZ!,1.0
+401,402,research goal career goal passion goal research study goal study passion career career study career goal study,Great professor and material.,Studying for finals. Wish me luck!,0.8
+402,403,goal goal goal research passion career study passion,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+403,404,career research goal goal research passion passion study research passion research career goal goal goal,Loved the practical projects.,Celebrating the end of the semester.,0.7
+404,405,research research study goal study goal study study career study research study,Excellent course!,Excited to start my journey at University XYZ!,1.0
+405,406,study passion goal passion goal research research research passion career goal research goal passion,Great professor and material.,Studying for finals. Wish me luck!,0.8
+406,407,passion goal career career passion research goal study study passion goal goal passion goal research passion research,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+407,408,passion goal passion goal research research goal passion study research research study goal passion,Loved the practical projects.,Celebrating the end of the semester.,0.7
+408,409,goal career research career research research career career goal career goal goal goal research research career research career,Excellent course!,Excited to start my journey at University XYZ!,1.0
+409,410,passion passion career research research goal study career,Great professor and material.,Studying for finals. Wish me luck!,0.8
+410,411,study career research career study research passion career career research passion passion research goal career,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+411,412,study research study study passion career study passion research study career study research study career passion career,Loved the practical projects.,Celebrating the end of the semester.,0.7
+412,413,passion goal career career research study passion passion research research,Excellent course!,Excited to start my journey at University XYZ!,1.0
+413,414,study study career goal study research study passion goal career passion,Great professor and material.,Studying for finals. Wish me luck!,0.8
+414,415,goal career research career study,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+415,416,study research study career study,Loved the practical projects.,Celebrating the end of the semester.,0.7
+416,417,research research career research passion research study study study career study career career research passion research,Excellent course!,Excited to start my journey at University XYZ!,1.0
+417,418,career career study study research goal goal study,Great professor and material.,Studying for finals. Wish me luck!,0.8
+418,419,study career research passion research study study research study goal goal study study goal,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+419,420,study research passion goal research passion study study research study career research passion research goal,Loved the practical projects.,Celebrating the end of the semester.,0.7
+420,421,research study study career career career passion career passion career,Excellent course!,Excited to start my journey at University XYZ!,1.0
+421,422,passion research research study passion goal study research passion career,Great professor and material.,Studying for finals. Wish me luck!,0.8
+422,423,goal research study passion goal passion career study passion research study,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+423,424,research passion study research career career passion study goal study career research goal passion goal passion goal passion,Loved the practical projects.,Celebrating the end of the semester.,0.7
+424,425,goal goal passion career goal study research passion passion research career research goal,Excellent course!,Excited to start my journey at University XYZ!,1.0
+425,426,passion research study goal research passion goal passion,Great professor and material.,Studying for finals. Wish me luck!,0.8
+426,427,study career study research goal research study study study passion goal research research career study study study,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+427,428,research career passion goal passion research study goal research research research goal goal career career passion goal goal goal,Loved the practical projects.,Celebrating the end of the semester.,0.7
+428,429,research study career goal career passion goal passion goal career research study passion career research career passion,Excellent course!,Excited to start my journey at University XYZ!,1.0
+429,430,career goal research career research goal study study goal research career goal passion research study,Great professor and material.,Studying for finals. Wish me luck!,0.8
+430,431,goal study research study goal research passion goal career goal research goal passion passion career study research research study,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+431,432,passion passion goal career career career goal career study goal study,Loved the practical projects.,Celebrating the end of the semester.,0.7
+432,433,goal career study study study goal research career study research career,Excellent course!,Excited to start my journey at University XYZ!,1.0
+433,434,study study goal research research study career study career career study passion research career career passion goal,Great professor and material.,Studying for finals. Wish me luck!,0.8
+434,435,passion career research passion goal study passion passion goal research passion passion research,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+435,436,passion research passion study career study passion goal career study research goal study research,Loved the practical projects.,Celebrating the end of the semester.,0.7
+436,437,passion research study study passion research research passion research passion goal study goal career career career passion research goal,Excellent course!,Excited to start my journey at University XYZ!,1.0
+437,438,goal goal goal career goal research career goal passion study study study career goal career research passion passion study,Great professor and material.,Studying for finals. Wish me luck!,0.8
+438,439,study goal research research research research study passion study research study research career passion career,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+439,440,study goal study career research research study research career research career goal career passion,Loved the practical projects.,Celebrating the end of the semester.,0.7
+440,441,passion study study study career study goal passion career passion study career research,Excellent course!,Excited to start my journey at University XYZ!,1.0
+441,442,study study goal goal research study,Great professor and material.,Studying for finals. Wish me luck!,0.8
+442,443,study passion career career passion career goal career career passion,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+443,444,research career career research passion research passion goal passion goal goal,Loved the practical projects.,Celebrating the end of the semester.,0.7
+444,445,study passion career career study goal study career study passion study goal passion,Excellent course!,Excited to start my journey at University XYZ!,1.0
+445,446,career career study passion research passion career passion,Great professor and material.,Studying for finals. Wish me luck!,0.8
+446,447,study goal passion goal career study study passion study passion passion goal study passion goal research,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+447,448,goal goal passion career career career goal passion study goal goal passion,Loved the practical projects.,Celebrating the end of the semester.,0.7
+448,449,goal research research career passion research passion career,Excellent course!,Excited to start my journey at University XYZ!,1.0
+449,450,goal research passion study passion research career career research goal goal career career,Great professor and material.,Studying for finals. Wish me luck!,0.8
+450,451,goal career goal career passion study passion career,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+451,452,study career career goal career research career research career goal research passion research goal research,Loved the practical projects.,Celebrating the end of the semester.,0.7
+452,453,career career goal study career passion goal research research passion career,Excellent course!,Excited to start my journey at University XYZ!,1.0
+453,454,passion career goal research goal study,Great professor and material.,Studying for finals. Wish me luck!,0.8
+454,455,study goal study research career study study research study passion research passion research study,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+455,456,passion study research study passion passion study goal research research study,Loved the practical projects.,Celebrating the end of the semester.,0.7
+456,457,passion career career study goal goal research passion goal career passion passion study goal,Excellent course!,Excited to start my journey at University XYZ!,1.0
+457,458,study goal research study study career study goal career study study research study passion career passion career research study,Great professor and material.,Studying for finals. Wish me luck!,0.8
+458,459,study career study passion study research passion study study goal career passion goal research career,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+459,460,study passion study career study research study research career career passion research research,Loved the practical projects.,Celebrating the end of the semester.,0.7
+460,461,goal goal goal study goal research study career passion goal career,Excellent course!,Excited to start my journey at University XYZ!,1.0
+461,462,research passion career passion goal research passion career goal goal career career passion study goal passion career passion,Great professor and material.,Studying for finals. Wish me luck!,0.8
+462,463,career research career career career study career goal goal passion study passion,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+463,464,goal research career goal passion passion career career research study passion career passion career,Loved the practical projects.,Celebrating the end of the semester.,0.7
+464,465,passion goal passion study research goal career study passion goal passion passion passion research,Excellent course!,Excited to start my journey at University XYZ!,1.0
+465,466,career goal study study study passion research goal,Great professor and material.,Studying for finals. Wish me luck!,0.8
+466,467,research research goal goal goal passion career goal career passion career study career,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+467,468,passion goal study goal goal goal research study goal goal goal passion research passion,Loved the practical projects.,Celebrating the end of the semester.,0.7
+468,469,goal study career career goal passion study research,Excellent course!,Excited to start my journey at University XYZ!,1.0
+469,470,study study research study passion passion passion study passion research study career study research,Great professor and material.,Studying for finals. Wish me luck!,0.8
+470,471,career study passion goal goal passion goal goal passion passion study study passion research goal study goal career,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+471,472,research career career career passion,Loved the practical projects.,Celebrating the end of the semester.,0.7
+472,473,passion study career career research study career,Excellent course!,Excited to start my journey at University XYZ!,1.0
+473,474,goal research passion research goal study passion passion study research,Great professor and material.,Studying for finals. Wish me luck!,0.8
+474,475,research goal career research study goal goal goal career,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+475,476,career research passion research passion,Loved the practical projects.,Celebrating the end of the semester.,0.7
+476,477,career goal study goal career passion goal career research study,Excellent course!,Excited to start my journey at University XYZ!,1.0
+477,478,passion research career study passion career career goal goal passion career goal study study,Great professor and material.,Studying for finals. Wish me luck!,0.8
+478,479,career goal passion passion passion study goal goal study passion passion,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+479,480,research goal goal goal research career research passion passion goal study goal study research passion study research,Loved the practical projects.,Celebrating the end of the semester.,0.7
+480,481,study goal goal goal research,Excellent course!,Excited to start my journey at University XYZ!,1.0
+481,482,career passion research goal passion study,Great professor and material.,Studying for finals. Wish me luck!,0.8
+482,483,passion career study career passion career passion passion career passion goal passion research passion,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+483,484,passion passion career goal goal study career career,Loved the practical projects.,Celebrating the end of the semester.,0.7
+484,485,career goal career passion goal goal,Excellent course!,Excited to start my journey at University XYZ!,1.0
+485,486,career career goal passion passion passion career research,Great professor and material.,Studying for finals. Wish me luck!,0.8
+486,487,study research study research passion career,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+487,488,study research career study goal research goal passion goal goal research passion goal career study goal passion goal study,Loved the practical projects.,Celebrating the end of the semester.,0.7
+488,489,research passion research passion study,Excellent course!,Excited to start my journey at University XYZ!,1.0
+489,490,passion goal study research research career research career passion passion passion goal goal career research,Great professor and material.,Studying for finals. Wish me luck!,0.8
+490,491,research passion study goal goal passion goal passion career research,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+491,492,study research research career goal study goal research passion research goal research passion career goal research goal career research,Loved the practical projects.,Celebrating the end of the semester.,0.7
+492,493,goal goal passion career passion research goal research,Excellent course!,Excited to start my journey at University XYZ!,1.0
+493,494,study study research goal research study goal research,Great professor and material.,Studying for finals. Wish me luck!,0.8
+494,495,career research goal research research study career study study research study career study career study career study,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+495,496,study goal career career career passion study career passion goal career career passion study goal career study goal research,Loved the practical projects.,Celebrating the end of the semester.,0.7
+496,497,research goal passion goal goal passion passion study study passion,Excellent course!,Excited to start my journey at University XYZ!,1.0
+497,498,research goal career goal goal career passion research goal career study goal research passion goal goal,Great professor and material.,Studying for finals. Wish me luck!,0.8
+498,499,career study study passion research passion goal goal study research,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+499,500,research goal career research research career goal research career,Loved the practical projects.,Celebrating the end of the semester.,0.7
+500,501,goal career career research goal research passion passion goal career research research goal goal passion study goal study,Excellent course!,Excited to start my journey at University XYZ!,1.0
+501,502,career career passion passion study goal research passion research research goal study goal passion,Great professor and material.,Studying for finals. Wish me luck!,0.8
+502,503,goal goal goal passion study goal passion research,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+503,504,career passion career goal goal passion career goal research study study goal,Loved the practical projects.,Celebrating the end of the semester.,0.7
+504,505,goal career research career goal research passion study goal goal goal research passion career passion research goal,Excellent course!,Excited to start my journey at University XYZ!,1.0
+505,506,goal career study goal study passion research,Great professor and material.,Studying for finals. Wish me luck!,0.8
+506,507,goal career passion goal passion career goal career study career study goal,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+507,508,study goal goal research goal study research research goal career career research,Loved the practical projects.,Celebrating the end of the semester.,0.7
+508,509,career goal goal research research passion,Excellent course!,Excited to start my journey at University XYZ!,1.0
+509,510,career career career study goal research career passion career goal goal research study research career passion research study research,Great professor and material.,Studying for finals. Wish me luck!,0.8
+510,511,career career career career career career passion study career study career research career goal,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+511,512,research research goal career passion research passion research career research research study career,Loved the practical projects.,Celebrating the end of the semester.,0.7
+512,513,goal career goal career goal study,Excellent course!,Excited to start my journey at University XYZ!,1.0
+513,514,research career passion passion career study goal study passion career career study study goal,Great professor and material.,Studying for finals. Wish me luck!,0.8
+514,515,research goal research passion research goal research career study passion career career goal study study passion,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+515,516,goal passion research career passion career goal research goal research research,Loved the practical projects.,Celebrating the end of the semester.,0.7
+516,517,goal goal passion goal passion study study study goal,Excellent course!,Excited to start my journey at University XYZ!,1.0
+517,518,goal passion research passion study passion research goal passion study,Great professor and material.,Studying for finals. Wish me luck!,0.8
+518,519,goal passion research goal passion career study research research research study passion goal passion goal,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+519,520,research passion research career research research goal career research research career,Loved the practical projects.,Celebrating the end of the semester.,0.7
+520,521,passion goal career career study career goal research research,Excellent course!,Excited to start my journey at University XYZ!,1.0
+521,522,research study career research passion research career research,Great professor and material.,Studying for finals. Wish me luck!,0.8
+522,523,goal goal career goal goal passion career career goal goal goal study research study career,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+523,524,passion research passion career career passion passion passion career goal passion research,Loved the practical projects.,Celebrating the end of the semester.,0.7
+524,525,study study research goal passion career passion career study passion research goal research goal passion passion goal,Excellent course!,Excited to start my journey at University XYZ!,1.0
+525,526,career research research research passion research career career goal passion career study passion passion career,Great professor and material.,Studying for finals. Wish me luck!,0.8
+526,527,goal career study passion study passion career,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+527,528,career research research research career goal career study career career,Loved the practical projects.,Celebrating the end of the semester.,0.7
+528,529,passion passion career goal study,Excellent course!,Excited to start my journey at University XYZ!,1.0
+529,530,goal goal study research passion passion study,Great professor and material.,Studying for finals. Wish me luck!,0.8
+530,531,goal research study passion career goal career study passion research career research passion career research research career passion research,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+531,532,career goal goal passion study research goal,Loved the practical projects.,Celebrating the end of the semester.,0.7
+532,533,study study passion passion research,Excellent course!,Excited to start my journey at University XYZ!,1.0
+533,534,research research career study study study career research research passion career passion career,Great professor and material.,Studying for finals. Wish me luck!,0.8
+534,535,goal study study research goal,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+535,536,study research goal study passion career goal research goal research goal research study passion study passion study study,Loved the practical projects.,Celebrating the end of the semester.,0.7
+536,537,career research research research passion research,Excellent course!,Excited to start my journey at University XYZ!,1.0
+537,538,goal study research career research passion passion passion research goal career research goal goal research research,Great professor and material.,Studying for finals. Wish me luck!,0.8
+538,539,goal goal goal research goal passion research passion study research study,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+539,540,goal goal career goal study goal research goal career goal study,Loved the practical projects.,Celebrating the end of the semester.,0.7
+540,541,goal study study career research career passion,Excellent course!,Excited to start my journey at University XYZ!,1.0
+541,542,career goal research goal passion research study career goal passion study,Great professor and material.,Studying for finals. Wish me luck!,0.8
+542,543,study career research study study study research passion career study research passion career research career study passion,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+543,544,passion study passion passion goal passion career research,Loved the practical projects.,Celebrating the end of the semester.,0.7
+544,545,research research study study goal study,Excellent course!,Excited to start my journey at University XYZ!,1.0
+545,546,study study research goal research career research career passion passion career,Great professor and material.,Studying for finals. Wish me luck!,0.8
+546,547,research career goal passion passion career study study career goal study career goal goal research goal study,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+547,548,study career career goal passion research passion goal goal passion research passion,Loved the practical projects.,Celebrating the end of the semester.,0.7
+548,549,study career study goal research passion research passion career career passion research passion goal career goal career,Excellent course!,Excited to start my journey at University XYZ!,1.0
+549,550,study goal goal study research goal passion study goal,Great professor and material.,Studying for finals. Wish me luck!,0.8
+550,551,goal career passion study career research career career research career study goal career study goal goal,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+551,552,career study career research goal career goal study passion career career goal study research study career research study passion,Loved the practical projects.,Celebrating the end of the semester.,0.7
+552,553,goal study study passion career goal study research study goal,Excellent course!,Excited to start my journey at University XYZ!,1.0
+553,554,passion study study research passion passion study research study study goal goal research career goal,Great professor and material.,Studying for finals. Wish me luck!,0.8
+554,555,passion goal goal research career goal goal research research,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+555,556,career passion passion study goal career goal career career career,Loved the practical projects.,Celebrating the end of the semester.,0.7
+556,557,research goal career study passion career study research career study career goal study goal,Excellent course!,Excited to start my journey at University XYZ!,1.0
+557,558,study passion study passion career career study career research goal goal passion career passion,Great professor and material.,Studying for finals. Wish me luck!,0.8
+558,559,goal goal career research research career career passion career research career passion passion passion passion study career goal career,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+559,560,passion study research research career career goal,Loved the practical projects.,Celebrating the end of the semester.,0.7
+560,561,goal research passion study goal goal passion passion career study passion,Excellent course!,Excited to start my journey at University XYZ!,1.0
+561,562,goal goal research passion career study career goal career goal goal,Great professor and material.,Studying for finals. Wish me luck!,0.8
+562,563,goal goal research career research research passion passion passion study passion career research career,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+563,564,passion study study research career goal career passion goal study research research study passion study passion goal study,Loved the practical projects.,Celebrating the end of the semester.,0.7
+564,565,goal study research study career,Excellent course!,Excited to start my journey at University XYZ!,1.0
+565,566,career goal study goal goal passion goal,Great professor and material.,Studying for finals. Wish me luck!,0.8
+566,567,study study research passion goal passion,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+567,568,goal passion research research goal career research research career,Loved the practical projects.,Celebrating the end of the semester.,0.7
+568,569,research study research passion passion,Excellent course!,Excited to start my journey at University XYZ!,1.0
+569,570,study passion career study study career research career career research research research research research,Great professor and material.,Studying for finals. Wish me luck!,0.8
+570,571,goal goal passion goal goal career research research career,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+571,572,goal career passion research study passion passion career goal research,Loved the practical projects.,Celebrating the end of the semester.,0.7
+572,573,study passion study goal goal study research goal study passion study study career goal research research career research,Excellent course!,Excited to start my journey at University XYZ!,1.0
+573,574,career passion goal goal goal study passion,Great professor and material.,Studying for finals. Wish me luck!,0.8
+574,575,career goal passion passion passion research research goal passion,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+575,576,passion career career goal passion goal career career research goal goal passion passion research study study study goal,Loved the practical projects.,Celebrating the end of the semester.,0.7
+576,577,goal career goal goal goal research goal passion passion career research passion research research career research goal research,Excellent course!,Excited to start my journey at University XYZ!,1.0
+577,578,career career passion goal passion study goal research career,Great professor and material.,Studying for finals. Wish me luck!,0.8
+578,579,goal passion career passion goal goal study,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+579,580,research passion study career research study passion goal career passion research research goal goal career career goal goal,Loved the practical projects.,Celebrating the end of the semester.,0.7
+580,581,goal study passion goal career study career study goal passion career study research goal passion goal,Excellent course!,Excited to start my journey at University XYZ!,1.0
+581,582,passion research goal study goal goal goal career research research research career study goal study career,Great professor and material.,Studying for finals. Wish me luck!,0.8
+582,583,goal passion passion study research passion study career study study study goal study study goal goal,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+583,584,research passion passion study career study passion goal research career goal research career career passion goal career,Loved the practical projects.,Celebrating the end of the semester.,0.7
+584,585,career research passion study passion study goal goal career goal,Excellent course!,Excited to start my journey at University XYZ!,1.0
+585,586,passion goal passion passion goal passion goal goal goal study passion research goal passion career goal goal,Great professor and material.,Studying for finals. Wish me luck!,0.8
+586,587,research study study goal passion career career passion goal career study,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+587,588,research goal passion career goal study goal goal study study goal study passion,Loved the practical projects.,Celebrating the end of the semester.,0.7
+588,589,study goal passion research research career study,Excellent course!,Excited to start my journey at University XYZ!,1.0
+589,590,passion research career passion study research career goal research career passion goal career career study,Great professor and material.,Studying for finals. Wish me luck!,0.8
+590,591,research study goal career study research goal passion study goal,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+591,592,study goal goal study goal,Loved the practical projects.,Celebrating the end of the semester.,0.7
+592,593,study goal passion passion career study goal goal passion career passion passion career study goal study research,Excellent course!,Excited to start my journey at University XYZ!,1.0
+593,594,research career passion study goal research study research,Great professor and material.,Studying for finals. Wish me luck!,0.8
+594,595,research goal career passion career study career study study passion goal,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+595,596,passion career study research research study passion goal passion study study goal,Loved the practical projects.,Celebrating the end of the semester.,0.7
+596,597,career career goal career research career career career research career research,Excellent course!,Excited to start my journey at University XYZ!,1.0
+597,598,passion goal passion goal passion passion,Great professor and material.,Studying for finals. Wish me luck!,0.8
+598,599,passion passion study career career study research,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+599,600,passion study study research career goal career passion study research career research career,Loved the practical projects.,Celebrating the end of the semester.,0.7
+600,601,passion goal research research goal research research career career goal passion research,Excellent course!,Excited to start my journey at University XYZ!,1.0
+601,602,goal goal career research study goal research passion career passion goal goal passion,Great professor and material.,Studying for finals. Wish me luck!,0.8
+602,603,research goal career research study goal,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+603,604,career career passion passion passion career,Loved the practical projects.,Celebrating the end of the semester.,0.7
+604,605,passion study passion goal career,Excellent course!,Excited to start my journey at University XYZ!,1.0
+605,606,study career career goal passion goal passion passion,Great professor and material.,Studying for finals. Wish me luck!,0.8
+606,607,passion study study study career goal research passion research goal goal career study study goal career career,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+607,608,passion study goal research study passion career goal study research passion passion study research passion goal passion research,Loved the practical projects.,Celebrating the end of the semester.,0.7
+608,609,career study research passion passion career career goal career,Excellent course!,Excited to start my journey at University XYZ!,1.0
+609,610,passion goal goal study career goal passion research goal career study passion study research,Great professor and material.,Studying for finals. Wish me luck!,0.8
+610,611,goal career goal passion research study,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+611,612,research goal study career research study study study passion research study research,Loved the practical projects.,Celebrating the end of the semester.,0.7
+612,613,study career career career goal study goal research goal research research research goal study goal study study research goal,Excellent course!,Excited to start my journey at University XYZ!,1.0
+613,614,career study career goal goal goal study passion study study research research study career research,Great professor and material.,Studying for finals. Wish me luck!,0.8
+614,615,passion career goal study study career research research research goal career career research research passion,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+615,616,study study career career goal goal passion study passion passion study goal study,Loved the practical projects.,Celebrating the end of the semester.,0.7
+616,617,research research career goal goal career passion research research passion study study goal career goal study,Excellent course!,Excited to start my journey at University XYZ!,1.0
+617,618,passion goal research research passion study research research career goal,Great professor and material.,Studying for finals. Wish me luck!,0.8
+618,619,goal study research career goal research study goal goal research goal career career research study,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+619,620,career passion passion goal goal passion career goal,Loved the practical projects.,Celebrating the end of the semester.,0.7
+620,621,research research career goal research goal goal research passion research career,Excellent course!,Excited to start my journey at University XYZ!,1.0
+621,622,research goal goal research study research study,Great professor and material.,Studying for finals. Wish me luck!,0.8
+622,623,study career goal goal study goal passion study goal passion career goal,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+623,624,research research passion study study goal research study study research career study passion,Loved the practical projects.,Celebrating the end of the semester.,0.7
+624,625,study study career passion goal study goal research study study research career study goal,Excellent course!,Excited to start my journey at University XYZ!,1.0
+625,626,goal career passion goal goal research career research passion research career study study,Great professor and material.,Studying for finals. Wish me luck!,0.8
+626,627,study research passion career passion,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+627,628,passion goal goal passion study goal career research goal passion study research goal study study study passion career,Loved the practical projects.,Celebrating the end of the semester.,0.7
+628,629,research goal research passion passion research career passion passion research passion career career career goal,Excellent course!,Excited to start my journey at University XYZ!,1.0
+629,630,career goal study passion career passion research passion goal,Great professor and material.,Studying for finals. Wish me luck!,0.8
+630,631,passion passion study study research goal passion passion passion passion study research career,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+631,632,passion research career research study career research study research research career study passion goal,Loved the practical projects.,Celebrating the end of the semester.,0.7
+632,633,study research study goal goal passion passion goal career career research passion research passion goal career career,Excellent course!,Excited to start my journey at University XYZ!,1.0
+633,634,research research study passion research goal,Great professor and material.,Studying for finals. Wish me luck!,0.8
+634,635,career passion study passion career career career career goal study career career research study passion study,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+635,636,study career career goal passion research study,Loved the practical projects.,Celebrating the end of the semester.,0.7
+636,637,passion goal research study research,Excellent course!,Excited to start my journey at University XYZ!,1.0
+637,638,career passion study career goal research passion study career career passion research goal research,Great professor and material.,Studying for finals. Wish me luck!,0.8
+638,639,research passion passion goal research passion goal goal research study research study goal passion career goal,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+639,640,passion goal research study goal passion research career research study research career,Loved the practical projects.,Celebrating the end of the semester.,0.7
+640,641,passion goal study career study research study career goal goal study,Excellent course!,Excited to start my journey at University XYZ!,1.0
+641,642,passion study research goal goal goal passion passion career study,Great professor and material.,Studying for finals. Wish me luck!,0.8
+642,643,research goal passion research research passion study goal study research goal career research study study,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+643,644,study passion research goal study study passion goal research career passion research career study study goal career study,Loved the practical projects.,Celebrating the end of the semester.,0.7
+644,645,goal research study passion passion research career,Excellent course!,Excited to start my journey at University XYZ!,1.0
+645,646,passion passion research career career research passion goal passion career passion goal study passion,Great professor and material.,Studying for finals. Wish me luck!,0.8
+646,647,study research research research passion career study goal career passion research goal study career career goal,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+647,648,passion study goal research study career goal career career career passion,Loved the practical projects.,Celebrating the end of the semester.,0.7
+648,649,research research study career career goal passion study career,Excellent course!,Excited to start my journey at University XYZ!,1.0
+649,650,passion study study career study goal study research goal passion passion career career research,Great professor and material.,Studying for finals. Wish me luck!,0.8
+650,651,passion passion passion passion study goal goal research study passion passion career career research passion research study goal,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+651,652,study passion career research career goal career passion career passion goal career research,Loved the practical projects.,Celebrating the end of the semester.,0.7
+652,653,research career career career passion goal research passion,Excellent course!,Excited to start my journey at University XYZ!,1.0
+653,654,research passion career research career research study passion study passion goal research goal goal passion study career passion,Great professor and material.,Studying for finals. Wish me luck!,0.8
+654,655,goal career study passion study study passion study research,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+655,656,research career study passion passion career passion research study passion passion goal goal goal study research,Loved the practical projects.,Celebrating the end of the semester.,0.7
+656,657,research research study study goal passion career career passion goal,Excellent course!,Excited to start my journey at University XYZ!,1.0
+657,658,passion passion career goal study career study goal passion research,Great professor and material.,Studying for finals. Wish me luck!,0.8
+658,659,research goal research study research goal goal study research research passion career goal passion goal passion career passion,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+659,660,research goal study study study study career research research goal passion goal goal goal,Loved the practical projects.,Celebrating the end of the semester.,0.7
+660,661,research passion goal research goal study,Excellent course!,Excited to start my journey at University XYZ!,1.0
+661,662,goal career study passion goal passion study goal career research career career research research,Great professor and material.,Studying for finals. Wish me luck!,0.8
+662,663,research goal passion passion research career study research career career,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+663,664,goal goal passion passion study study study study career career passion goal,Loved the practical projects.,Celebrating the end of the semester.,0.7
+664,665,goal research career study study research goal study goal research,Excellent course!,Excited to start my journey at University XYZ!,1.0
+665,666,goal goal goal study passion career goal goal goal passion research study passion goal passion passion passion research career,Great professor and material.,Studying for finals. Wish me luck!,0.8
+666,667,research research career research passion passion goal,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+667,668,goal study passion study career passion study career study career career passion goal career career passion,Loved the practical projects.,Celebrating the end of the semester.,0.7
+668,669,research research goal study passion goal,Excellent course!,Excited to start my journey at University XYZ!,1.0
+669,670,research career research career passion career goal career study goal passion goal,Great professor and material.,Studying for finals. Wish me luck!,0.8
+670,671,passion research study passion career goal passion,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+671,672,career passion research study passion career passion goal passion research passion study passion goal,Loved the practical projects.,Celebrating the end of the semester.,0.7
+672,673,passion research career passion passion study research career goal passion career goal research research career goal research career research,Excellent course!,Excited to start my journey at University XYZ!,1.0
+673,674,research study goal career career goal goal goal,Great professor and material.,Studying for finals. Wish me luck!,0.8
+674,675,goal passion career passion research research career research goal passion goal,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+675,676,passion goal career goal research passion career passion career passion research career study passion passion goal,Loved the practical projects.,Celebrating the end of the semester.,0.7
+676,677,study research goal study career study passion passion goal career career study goal career passion study research,Excellent course!,Excited to start my journey at University XYZ!,1.0
+677,678,goal career passion research research goal passion study passion research goal goal study,Great professor and material.,Studying for finals. Wish me luck!,0.8
+678,679,goal goal goal goal research passion career goal career career research goal career goal,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+679,680,study study career study research research career,Loved the practical projects.,Celebrating the end of the semester.,0.7
+680,681,passion goal goal goal goal passion,Excellent course!,Excited to start my journey at University XYZ!,1.0
+681,682,study goal research career career research goal passion study career study passion career study passion study goal passion,Great professor and material.,Studying for finals. Wish me luck!,0.8
+682,683,goal goal passion research career passion goal,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+683,684,passion research career study passion career,Loved the practical projects.,Celebrating the end of the semester.,0.7
+684,685,career goal study passion goal goal research career passion passion passion goal research study goal study research career passion,Excellent course!,Excited to start my journey at University XYZ!,1.0
+685,686,goal study career passion study career goal,Great professor and material.,Studying for finals. Wish me luck!,0.8
+686,687,goal passion goal goal goal goal passion career,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+687,688,research study study research passion research passion,Loved the practical projects.,Celebrating the end of the semester.,0.7
+688,689,study passion career research career study research study career study research research study research research study career research,Excellent course!,Excited to start my journey at University XYZ!,1.0
+689,690,research research study career career passion research research,Great professor and material.,Studying for finals. Wish me luck!,0.8
+690,691,career goal goal career research goal study study passion career career goal research,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+691,692,goal goal career goal passion passion career research passion,Loved the practical projects.,Celebrating the end of the semester.,0.7
+692,693,career study goal passion study,Excellent course!,Excited to start my journey at University XYZ!,1.0
+693,694,research study career research research study career passion study passion study passion,Great professor and material.,Studying for finals. Wish me luck!,0.8
+694,695,study research goal research passion career research goal passion research study career passion research passion study goal research,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+695,696,passion passion goal passion career,Loved the practical projects.,Celebrating the end of the semester.,0.7
+696,697,career passion career research career passion study research goal passion goal,Excellent course!,Excited to start my journey at University XYZ!,1.0
+697,698,goal passion passion study passion study study,Great professor and material.,Studying for finals. Wish me luck!,0.8
+698,699,career study passion career study,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+699,700,career research research career study passion goal passion goal goal study career passion career research study study research passion,Loved the practical projects.,Celebrating the end of the semester.,0.7
+700,701,research passion goal study passion career career study research research,Excellent course!,Excited to start my journey at University XYZ!,1.0
+701,702,research study passion goal research,Great professor and material.,Studying for finals. Wish me luck!,0.8
+702,703,passion career research study research goal research career,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+703,704,research passion research career passion study passion goal passion study research passion passion passion passion study career career passion,Loved the practical projects.,Celebrating the end of the semester.,0.7
+704,705,study passion goal passion goal passion goal,Excellent course!,Excited to start my journey at University XYZ!,1.0
+705,706,passion goal research career study goal goal study goal study passion research research career,Great professor and material.,Studying for finals. Wish me luck!,0.8
+706,707,career passion research passion passion goal passion research career research goal research study career,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+707,708,study study goal passion study research passion research research passion passion research,Loved the practical projects.,Celebrating the end of the semester.,0.7
+708,709,career career goal passion research career research goal research goal passion goal goal career,Excellent course!,Excited to start my journey at University XYZ!,1.0
+709,710,research career study goal study career research career research research passion,Great professor and material.,Studying for finals. Wish me luck!,0.8
+710,711,goal career research career career research study goal goal passion passion,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+711,712,goal study goal goal goal goal study passion career passion passion career goal,Loved the practical projects.,Celebrating the end of the semester.,0.7
+712,713,study passion career research goal passion study,Excellent course!,Excited to start my journey at University XYZ!,1.0
+713,714,career career passion research study passion research career goal study study research passion career research goal goal goal research,Great professor and material.,Studying for finals. Wish me luck!,0.8
+714,715,study passion study career study research goal career career study research study study career study goal study,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+715,716,goal career research goal research research goal career passion research research career,Loved the practical projects.,Celebrating the end of the semester.,0.7
+716,717,study career research goal passion study goal passion passion passion goal study study passion goal passion career,Excellent course!,Excited to start my journey at University XYZ!,1.0
+717,718,study research passion career study goal study goal goal passion passion,Great professor and material.,Studying for finals. Wish me luck!,0.8
+718,719,career study research goal goal passion career,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+719,720,passion research study study career passion passion research study passion career study,Loved the practical projects.,Celebrating the end of the semester.,0.7
+720,721,career goal research career passion goal research passion goal study passion career research goal passion study,Excellent course!,Excited to start my journey at University XYZ!,1.0
+721,722,research research passion study goal passion goal research goal study career study goal passion research career passion passion study,Great professor and material.,Studying for finals. Wish me luck!,0.8
+722,723,study goal study passion research goal,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+723,724,career passion study study passion career career study goal,Loved the practical projects.,Celebrating the end of the semester.,0.7
+724,725,goal career goal research goal goal goal goal,Excellent course!,Excited to start my journey at University XYZ!,1.0
+725,726,career research career passion passion,Great professor and material.,Studying for finals. Wish me luck!,0.8
+726,727,passion passion goal career study research passion career passion passion passion passion passion research career passion passion passion passion,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+727,728,goal study passion study research study career goal goal passion passion research research career,Loved the practical projects.,Celebrating the end of the semester.,0.7
+728,729,passion research research research goal,Excellent course!,Excited to start my journey at University XYZ!,1.0
+729,730,study passion goal research passion goal career,Great professor and material.,Studying for finals. Wish me luck!,0.8
+730,731,goal passion study research career goal passion passion research passion passion research career study study goal career goal,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+731,732,study research passion study career study career career career goal research study research passion study research research passion career,Loved the practical projects.,Celebrating the end of the semester.,0.7
+732,733,study passion career study study study career passion study research career goal passion research study,Excellent course!,Excited to start my journey at University XYZ!,1.0
+733,734,passion career goal goal research passion research research study career goal passion career career,Great professor and material.,Studying for finals. Wish me luck!,0.8
+734,735,career study career study goal goal research study goal career passion passion study,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+735,736,research career study passion study career goal career goal goal goal study passion study passion career research career,Loved the practical projects.,Celebrating the end of the semester.,0.7
+736,737,study passion study goal study passion passion goal passion research career study research study research,Excellent course!,Excited to start my journey at University XYZ!,1.0
+737,738,goal passion passion goal research career research,Great professor and material.,Studying for finals. Wish me luck!,0.8
+738,739,career study career research goal,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+739,740,research study career passion research goal career research goal research career research study career research,Loved the practical projects.,Celebrating the end of the semester.,0.7
+740,741,passion research study goal goal goal passion study career goal study research passion study study career study career passion,Excellent course!,Excited to start my journey at University XYZ!,1.0
+741,742,research career career goal goal,Great professor and material.,Studying for finals. Wish me luck!,0.8
+742,743,passion goal study passion study career passion research,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+743,744,career study career goal passion goal study study passion,Loved the practical projects.,Celebrating the end of the semester.,0.7
+744,745,research study passion research career study passion passion passion study research passion career passion research study passion,Excellent course!,Excited to start my journey at University XYZ!,1.0
+745,746,career career passion passion career,Great professor and material.,Studying for finals. Wish me luck!,0.8
+746,747,goal goal passion career study study goal research,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+747,748,passion research study career career passion,Loved the practical projects.,Celebrating the end of the semester.,0.7
+748,749,passion career study career research career,Excellent course!,Excited to start my journey at University XYZ!,1.0
+749,750,research goal career passion career passion research career research research goal career passion passion career goal goal,Great professor and material.,Studying for finals. Wish me luck!,0.8
+750,751,passion research goal passion passion research career career goal goal research goal research passion,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+751,752,passion study research study goal passion goal study goal career study goal passion goal,Loved the practical projects.,Celebrating the end of the semester.,0.7
+752,753,passion career goal career study passion study passion career research goal career,Excellent course!,Excited to start my journey at University XYZ!,1.0
+753,754,passion passion passion goal study research goal passion goal career passion research passion,Great professor and material.,Studying for finals. Wish me luck!,0.8
+754,755,research research study study goal goal research passion career career,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+755,756,passion study career research goal study career passion career research study passion research,Loved the practical projects.,Celebrating the end of the semester.,0.7
+756,757,goal study research research passion goal research study research career,Excellent course!,Excited to start my journey at University XYZ!,1.0
+757,758,study research passion study career passion passion passion study passion research passion career goal career,Great professor and material.,Studying for finals. Wish me luck!,0.8
+758,759,passion passion research passion career study goal passion goal passion study career study goal passion,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+759,760,career study goal goal career passion goal career passion passion study career passion study,Loved the practical projects.,Celebrating the end of the semester.,0.7
+760,761,career research passion career study passion career career,Excellent course!,Excited to start my journey at University XYZ!,1.0
+761,762,passion study study passion passion goal research passion passion goal goal career study research career passion,Great professor and material.,Studying for finals. Wish me luck!,0.8
+762,763,goal study career study goal career career study goal passion career passion,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+763,764,career career passion research passion passion,Loved the practical projects.,Celebrating the end of the semester.,0.7
+764,765,goal goal career study study career study passion,Excellent course!,Excited to start my journey at University XYZ!,1.0
+765,766,research research career career career,Great professor and material.,Studying for finals. Wish me luck!,0.8
+766,767,study career career passion passion passion study career goal goal career career career,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+767,768,study goal research goal goal passion career career career passion study study research study study career goal,Loved the practical projects.,Celebrating the end of the semester.,0.7
+768,769,study passion research passion career goal research passion study study research study passion passion study,Excellent course!,Excited to start my journey at University XYZ!,1.0
+769,770,career goal research passion research career passion,Great professor and material.,Studying for finals. Wish me luck!,0.8
+770,771,career study research research study research study passion career,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+771,772,research goal career study goal goal career career career study goal research study passion career goal study,Loved the practical projects.,Celebrating the end of the semester.,0.7
+772,773,study study research research study,Excellent course!,Excited to start my journey at University XYZ!,1.0
+773,774,passion goal goal career career goal study study research research career goal,Great professor and material.,Studying for finals. Wish me luck!,0.8
+774,775,study goal passion goal passion research research career goal goal passion research passion research passion research passion research passion,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+775,776,career passion career goal goal research career study research career passion passion goal study,Loved the practical projects.,Celebrating the end of the semester.,0.7
+776,777,career career passion career career goal study goal study career study career career,Excellent course!,Excited to start my journey at University XYZ!,1.0
+777,778,goal research passion research research study career career career passion study study career research,Great professor and material.,Studying for finals. Wish me luck!,0.8
+778,779,research goal study study research,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+779,780,study research passion research passion career passion goal career research career career research,Loved the practical projects.,Celebrating the end of the semester.,0.7
+780,781,goal research study study goal passion passion study research goal passion passion career study research goal,Excellent course!,Excited to start my journey at University XYZ!,1.0
+781,782,career study study goal passion,Great professor and material.,Studying for finals. Wish me luck!,0.8
+782,783,goal career study research study study,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+783,784,research passion research passion research goal research career passion study career passion passion study goal career study,Loved the practical projects.,Celebrating the end of the semester.,0.7
+784,785,goal career study goal career research passion goal passion research study study career goal goal,Excellent course!,Excited to start my journey at University XYZ!,1.0
+785,786,career passion study study goal goal career research passion research research,Great professor and material.,Studying for finals. Wish me luck!,0.8
+786,787,goal goal research passion goal study passion study passion goal career goal research research,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+787,788,research goal study goal passion research study career study study goal career passion,Loved the practical projects.,Celebrating the end of the semester.,0.7
+788,789,study study research career study research career passion research career research study goal,Excellent course!,Excited to start my journey at University XYZ!,1.0
+789,790,study study career research passion,Great professor and material.,Studying for finals. Wish me luck!,0.8
+790,791,career passion research study study study passion,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+791,792,passion passion passion career goal career study career research passion research,Loved the practical projects.,Celebrating the end of the semester.,0.7
+792,793,research study passion research study passion goal study career passion research research career career research passion study career career,Excellent course!,Excited to start my journey at University XYZ!,1.0
+793,794,goal passion passion passion passion passion research career research goal study career goal research study goal study,Great professor and material.,Studying for finals. Wish me luck!,0.8
+794,795,goal research study goal research career research research career research,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+795,796,career career goal study goal career study study career,Loved the practical projects.,Celebrating the end of the semester.,0.7
+796,797,study study goal study career passion passion passion career passion goal career career career study study study research,Excellent course!,Excited to start my journey at University XYZ!,1.0
+797,798,career career study career career passion career research study goal goal passion goal goal,Great professor and material.,Studying for finals. Wish me luck!,0.8
+798,799,study research passion goal research passion goal,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+799,800,study career passion goal passion research research career goal study goal passion research passion,Loved the practical projects.,Celebrating the end of the semester.,0.7
+800,801,research study research goal goal research career goal goal study research goal career passion research study goal,Excellent course!,Excited to start my journey at University XYZ!,1.0
+801,802,research career career study research goal study goal passion,Great professor and material.,Studying for finals. Wish me luck!,0.8
+802,803,passion career study goal goal study research passion passion goal goal goal study research passion career study,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+803,804,research study passion study passion,Loved the practical projects.,Celebrating the end of the semester.,0.7
+804,805,research career research passion study research career passion research research research research study,Excellent course!,Excited to start my journey at University XYZ!,1.0
+805,806,career passion goal study passion passion research goal goal,Great professor and material.,Studying for finals. Wish me luck!,0.8
+806,807,goal passion goal goal career passion goal goal research goal goal career passion study passion,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+807,808,passion goal research passion research study passion goal research career research career goal study career study,Loved the practical projects.,Celebrating the end of the semester.,0.7
+808,809,goal career research passion research study goal goal,Excellent course!,Excited to start my journey at University XYZ!,1.0
+809,810,passion study research research goal study passion goal research goal goal career goal goal study goal,Great professor and material.,Studying for finals. Wish me luck!,0.8
+810,811,research study goal passion research,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+811,812,passion goal career career study passion research,Loved the practical projects.,Celebrating the end of the semester.,0.7
+812,813,career study goal passion career research study goal passion research goal career career,Excellent course!,Excited to start my journey at University XYZ!,1.0
+813,814,career study research career passion career study goal,Great professor and material.,Studying for finals. Wish me luck!,0.8
+814,815,career goal career study goal passion career goal study study passion study study goal,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+815,816,research study study research study goal goal research study study career study goal passion passion passion passion,Loved the practical projects.,Celebrating the end of the semester.,0.7
+816,817,study study career study passion research research goal goal study research passion passion passion study study career passion passion,Excellent course!,Excited to start my journey at University XYZ!,1.0
+817,818,study career career goal research passion passion career career goal research goal research passion goal,Great professor and material.,Studying for finals. Wish me luck!,0.8
+818,819,goal goal passion career career study study study passion,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+819,820,career career goal career goal passion,Loved the practical projects.,Celebrating the end of the semester.,0.7
+820,821,passion goal goal research career,Excellent course!,Excited to start my journey at University XYZ!,1.0
+821,822,research research passion research goal study goal research career goal career goal career goal career study passion,Great professor and material.,Studying for finals. Wish me luck!,0.8
+822,823,study passion goal study study study research career passion career career career study career,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+823,824,research goal study passion goal goal goal career career study career career career study study research research research,Loved the practical projects.,Celebrating the end of the semester.,0.7
+824,825,goal goal research research passion goal passion passion career study goal research research study goal research,Excellent course!,Excited to start my journey at University XYZ!,1.0
+825,826,career passion research goal study career goal career,Great professor and material.,Studying for finals. Wish me luck!,0.8
+826,827,research goal study passion passion career passion goal career passion study goal study,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+827,828,career research career goal goal career research career goal research goal research research career career,Loved the practical projects.,Celebrating the end of the semester.,0.7
+828,829,research research goal study career goal goal passion career goal passion career research passion research study study,Excellent course!,Excited to start my journey at University XYZ!,1.0
+829,830,study study goal study goal goal career goal goal study goal research study passion study goal research study research,Great professor and material.,Studying for finals. Wish me luck!,0.8
+830,831,passion passion career career study career research career research career career,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+831,832,goal goal career research study passion goal career passion goal study research career study goal career passion,Loved the practical projects.,Celebrating the end of the semester.,0.7
+832,833,research goal research career study research passion goal passion research study study passion career career study passion passion passion,Excellent course!,Excited to start my journey at University XYZ!,1.0
+833,834,career career research goal research passion research passion,Great professor and material.,Studying for finals. Wish me luck!,0.8
+834,835,study passion career research passion goal study goal goal goal study study study study goal career career study,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+835,836,research passion research research research career passion research study career study,Loved the practical projects.,Celebrating the end of the semester.,0.7
+836,837,research study passion study research study career,Excellent course!,Excited to start my journey at University XYZ!,1.0
+837,838,career career goal career career goal career research career career goal research,Great professor and material.,Studying for finals. Wish me luck!,0.8
+838,839,study passion research study research study study research goal research,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+839,840,research study passion study career research research goal study goal research study study career career passion career study career,Loved the practical projects.,Celebrating the end of the semester.,0.7
+840,841,passion research career study research study research study career career passion research,Excellent course!,Excited to start my journey at University XYZ!,1.0
+841,842,goal career research passion passion goal passion study career passion passion goal study,Great professor and material.,Studying for finals. Wish me luck!,0.8
+842,843,passion career career passion study career career study study passion research goal,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+843,844,research career study career goal passion goal career career career career research passion research career study,Loved the practical projects.,Celebrating the end of the semester.,0.7
+844,845,career career passion goal research research research career passion career career study passion research goal research,Excellent course!,Excited to start my journey at University XYZ!,1.0
+845,846,career passion passion passion study research study goal career study study career,Great professor and material.,Studying for finals. Wish me luck!,0.8
+846,847,career research career passion career,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+847,848,goal study goal career research career passion,Loved the practical projects.,Celebrating the end of the semester.,0.7
+848,849,goal study research career career study research career career,Excellent course!,Excited to start my journey at University XYZ!,1.0
+849,850,goal goal passion study research career career passion career study,Great professor and material.,Studying for finals. Wish me luck!,0.8
+850,851,study passion career passion goal,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+851,852,research career research career research goal research passion research career study research research research career research career career study,Loved the practical projects.,Celebrating the end of the semester.,0.7
+852,853,passion career goal research goal research study career passion career research passion career passion research study study career,Excellent course!,Excited to start my journey at University XYZ!,1.0
+853,854,research career career study passion research passion research goal study goal career study career,Great professor and material.,Studying for finals. Wish me luck!,0.8
+854,855,research career passion research research goal,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+855,856,study study passion research passion passion,Loved the practical projects.,Celebrating the end of the semester.,0.7
+856,857,goal passion passion career study study research study research career study career study study career passion passion passion passion,Excellent course!,Excited to start my journey at University XYZ!,1.0
+857,858,goal career goal goal research passion study,Great professor and material.,Studying for finals. Wish me luck!,0.8
+858,859,passion goal research passion career career passion goal goal study research goal study,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+859,860,career career passion research study research passion study study goal research research goal career passion research goal,Loved the practical projects.,Celebrating the end of the semester.,0.7
+860,861,study goal career passion career study study study study goal study,Excellent course!,Excited to start my journey at University XYZ!,1.0
+861,862,study goal study career career research career passion passion passion goal career passion research goal research career study research,Great professor and material.,Studying for finals. Wish me luck!,0.8
+862,863,goal research research goal goal passion career,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+863,864,research goal goal career goal study study study,Loved the practical projects.,Celebrating the end of the semester.,0.7
+864,865,career research study goal study career goal study research goal goal research goal study goal,Excellent course!,Excited to start my journey at University XYZ!,1.0
+865,866,research passion research study career research career,Great professor and material.,Studying for finals. Wish me luck!,0.8
+866,867,study study passion goal research study research career goal passion research goal passion research goal study research,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+867,868,passion goal study research research research study passion research passion goal passion passion research,Loved the practical projects.,Celebrating the end of the semester.,0.7
+868,869,career study study career goal research research goal goal,Excellent course!,Excited to start my journey at University XYZ!,1.0
+869,870,study goal study passion research career research career passion,Great professor and material.,Studying for finals. Wish me luck!,0.8
+870,871,passion career goal research passion research research research,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+871,872,passion passion research goal research study career,Loved the practical projects.,Celebrating the end of the semester.,0.7
+872,873,goal research passion research goal passion study career career research study goal career study research,Excellent course!,Excited to start my journey at University XYZ!,1.0
+873,874,research research study career study passion study goal research career passion research study,Great professor and material.,Studying for finals. Wish me luck!,0.8
+874,875,goal study research passion career research passion research goal study,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+875,876,career passion career career career passion passion career study research,Loved the practical projects.,Celebrating the end of the semester.,0.7
+876,877,career goal career passion research goal research research goal career career,Excellent course!,Excited to start my journey at University XYZ!,1.0
+877,878,study career goal study career study goal career passion goal research research goal research goal passion goal,Great professor and material.,Studying for finals. Wish me luck!,0.8
+878,879,career study research research goal research career passion goal research career study research passion passion research research,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+879,880,research study career goal study career career passion career,Loved the practical projects.,Celebrating the end of the semester.,0.7
+880,881,research study goal career career career career,Excellent course!,Excited to start my journey at University XYZ!,1.0
+881,882,passion research career goal research,Great professor and material.,Studying for finals. Wish me luck!,0.8
+882,883,career passion goal research goal career study goal goal passion career goal career passion career passion passion research,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+883,884,career study research passion study goal goal research study career study research career career goal study career research,Loved the practical projects.,Celebrating the end of the semester.,0.7
+884,885,goal career study goal study study study goal career passion career goal passion passion passion research goal research passion,Excellent course!,Excited to start my journey at University XYZ!,1.0
+885,886,research research goal study research research passion passion passion career research passion goal career study research research goal study,Great professor and material.,Studying for finals. Wish me luck!,0.8
+886,887,career research passion goal goal goal goal passion passion career research passion career study research,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+887,888,study career passion passion study passion goal passion research study research career research,Loved the practical projects.,Celebrating the end of the semester.,0.7
+888,889,goal goal research career passion goal research research research passion study,Excellent course!,Excited to start my journey at University XYZ!,1.0
+889,890,career study career career research goal research passion career goal career career research goal goal career goal goal,Great professor and material.,Studying for finals. Wish me luck!,0.8
+890,891,research study passion study goal career passion passion career passion career,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+891,892,study passion research career passion career research passion passion research research research career,Loved the practical projects.,Celebrating the end of the semester.,0.7
+892,893,research career study passion passion goal study research research study research,Excellent course!,Excited to start my journey at University XYZ!,1.0
+893,894,career passion study passion career study,Great professor and material.,Studying for finals. Wish me luck!,0.8
+894,895,research research research career career career passion career research goal career goal research career passion passion goal,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+895,896,passion passion passion research passion study career passion passion passion,Loved the practical projects.,Celebrating the end of the semester.,0.7
+896,897,passion passion career study study passion study,Excellent course!,Excited to start my journey at University XYZ!,1.0
+897,898,goal study study study research research research study goal study passion,Great professor and material.,Studying for finals. Wish me luck!,0.8
+898,899,research career goal research goal goal,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+899,900,study passion career research goal career goal passion career research,Loved the practical projects.,Celebrating the end of the semester.,0.7
+900,901,passion career goal goal research passion study goal career research research goal goal goal,Excellent course!,Excited to start my journey at University XYZ!,1.0
+901,902,study goal passion career goal study career research goal career research,Great professor and material.,Studying for finals. Wish me luck!,0.8
+902,903,study passion goal passion study career career study study goal research passion passion career career goal study passion goal,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+903,904,career passion career career research study career research goal career goal career passion research research passion study,Loved the practical projects.,Celebrating the end of the semester.,0.7
+904,905,research goal research study goal goal passion career passion career passion,Excellent course!,Excited to start my journey at University XYZ!,1.0
+905,906,research goal career research study passion study research study study research goal career passion career passion career,Great professor and material.,Studying for finals. Wish me luck!,0.8
+906,907,goal study goal research passion passion research career research research goal research passion study goal,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+907,908,goal career study goal research goal goal goal career goal goal,Loved the practical projects.,Celebrating the end of the semester.,0.7
+908,909,study passion career career goal goal passion goal research,Excellent course!,Excited to start my journey at University XYZ!,1.0
+909,910,goal research passion research career research,Great professor and material.,Studying for finals. Wish me luck!,0.8
+910,911,career goal career passion passion research career goal passion goal study passion research study career,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+911,912,passion study study passion career career research career research study passion career research study,Loved the practical projects.,Celebrating the end of the semester.,0.7
+912,913,goal study career study passion passion passion goal passion,Excellent course!,Excited to start my journey at University XYZ!,1.0
+913,914,goal passion study career career passion career passion passion research research research,Great professor and material.,Studying for finals. Wish me luck!,0.8
+914,915,research passion study research research study passion goal research study passion career goal study,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+915,916,study study research career goal passion passion career study study study study study career research goal study research,Loved the practical projects.,Celebrating the end of the semester.,0.7
+916,917,career research study study study,Excellent course!,Excited to start my journey at University XYZ!,1.0
+917,918,study research study passion passion goal study study research research study goal study research study research,Great professor and material.,Studying for finals. Wish me luck!,0.8
+918,919,career research goal career study research career goal research career career career passion study research,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+919,920,research career study goal research study study passion research career study study goal passion study study,Loved the practical projects.,Celebrating the end of the semester.,0.7
+920,921,career goal goal goal career career passion research research,Excellent course!,Excited to start my journey at University XYZ!,1.0
+921,922,passion research career research career passion goal passion research career research research,Great professor and material.,Studying for finals. Wish me luck!,0.8
+922,923,goal research goal career career goal passion career passion career career study,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+923,924,research passion research passion career study study career goal goal research passion study research career study,Loved the practical projects.,Celebrating the end of the semester.,0.7
+924,925,passion goal research career study,Excellent course!,Excited to start my journey at University XYZ!,1.0
+925,926,passion study career study research goal study goal career goal study study,Great professor and material.,Studying for finals. Wish me luck!,0.8
+926,927,passion study goal passion study study career passion career career,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+927,928,research career goal study research career study passion passion study goal study study research passion passion career,Loved the practical projects.,Celebrating the end of the semester.,0.7
+928,929,study study goal passion goal research career goal passion research,Excellent course!,Excited to start my journey at University XYZ!,1.0
+929,930,research goal passion goal study study passion career research research study goal goal career goal,Great professor and material.,Studying for finals. Wish me luck!,0.8
+930,931,goal career research goal research study study study goal career research passion study study passion passion,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+931,932,goal research study career goal goal career career career passion study,Loved the practical projects.,Celebrating the end of the semester.,0.7
+932,933,passion study passion research study goal study study study research passion goal,Excellent course!,Excited to start my journey at University XYZ!,1.0
+933,934,passion career research career research,Great professor and material.,Studying for finals. Wish me luck!,0.8
+934,935,passion research passion passion goal career career career study goal career career goal,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+935,936,passion career passion career research study career research goal research goal career goal research study passion passion study passion,Loved the practical projects.,Celebrating the end of the semester.,0.7
+936,937,career research research goal research career research passion goal goal career research passion research study research career,Excellent course!,Excited to start my journey at University XYZ!,1.0
+937,938,goal passion career study passion passion goal goal goal career research passion research research goal research,Great professor and material.,Studying for finals. Wish me luck!,0.8
+938,939,passion study career research career,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+939,940,career career passion research study career study passion passion goal career goal study research goal passion career,Loved the practical projects.,Celebrating the end of the semester.,0.7
+940,941,passion research career research research career career,Excellent course!,Excited to start my journey at University XYZ!,1.0
+941,942,research study career passion goal study career career study goal,Great professor and material.,Studying for finals. Wish me luck!,0.8
+942,943,research passion career goal passion study career research study career,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+943,944,goal passion passion career study research goal career goal passion research goal career research study career goal research career,Loved the practical projects.,Celebrating the end of the semester.,0.7
+944,945,research research goal career passion passion goal goal research career career study study passion study study,Excellent course!,Excited to start my journey at University XYZ!,1.0
+945,946,passion study career study research research research goal research career goal goal research,Great professor and material.,Studying for finals. Wish me luck!,0.8
+946,947,study passion study study goal goal goal career career passion goal research,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+947,948,goal career goal career goal research passion research career study research goal passion goal goal research passion study,Loved the practical projects.,Celebrating the end of the semester.,0.7
+948,949,goal passion study goal passion research goal goal passion goal study goal career study passion study career career goal,Excellent course!,Excited to start my journey at University XYZ!,1.0
+949,950,research study research career goal goal goal passion career goal career goal study career,Great professor and material.,Studying for finals. Wish me luck!,0.8
+950,951,passion research career goal career passion career goal research study research goal goal passion career career,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+951,952,study study passion goal passion career goal passion research career study passion career career study study,Loved the practical projects.,Celebrating the end of the semester.,0.7
+952,953,passion study research career study career goal,Excellent course!,Excited to start my journey at University XYZ!,1.0
+953,954,goal study career goal study career study career goal study goal study passion goal goal research goal career study,Great professor and material.,Studying for finals. Wish me luck!,0.8
+954,955,career career career career passion,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+955,956,research goal career goal goal career research goal study goal career passion,Loved the practical projects.,Celebrating the end of the semester.,0.7
+956,957,research study study passion passion goal career research study passion research career study study,Excellent course!,Excited to start my journey at University XYZ!,1.0
+957,958,career study career study goal career research goal research study,Great professor and material.,Studying for finals. Wish me luck!,0.8
+958,959,research goal career passion research passion research research career study goal,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+959,960,goal study passion goal passion study study career goal career goal study study research,Loved the practical projects.,Celebrating the end of the semester.,0.7
+960,961,study study passion passion career research research study,Excellent course!,Excited to start my journey at University XYZ!,1.0
+961,962,career research passion goal career goal passion passion goal career goal career career study research,Great professor and material.,Studying for finals. Wish me luck!,0.8
+962,963,research passion study research career career goal goal career career goal,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+963,964,passion goal research research research study study research career study goal study career passion study research,Loved the practical projects.,Celebrating the end of the semester.,0.7
+964,965,research passion career goal career passion research career goal research goal study goal research study research,Excellent course!,Excited to start my journey at University XYZ!,1.0
+965,966,research study goal passion passion passion passion career passion study,Great professor and material.,Studying for finals. Wish me luck!,0.8
+966,967,passion research passion goal study study career research study goal passion,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+967,968,goal passion career study study goal research career research study research passion career research passion,Loved the practical projects.,Celebrating the end of the semester.,0.7
+968,969,research career passion research goal research passion research career study passion passion passion passion,Excellent course!,Excited to start my journey at University XYZ!,1.0
+969,970,career goal career passion research research passion research,Great professor and material.,Studying for finals. Wish me luck!,0.8
+970,971,career study research passion passion research goal passion research passion goal study goal,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+971,972,research goal study passion research goal study goal career research passion study goal research goal research career,Loved the practical projects.,Celebrating the end of the semester.,0.7
+972,973,career study career research study goal goal research passion passion goal research passion career,Excellent course!,Excited to start my journey at University XYZ!,1.0
+973,974,career research career passion passion study goal research goal career research research passion career,Great professor and material.,Studying for finals. Wish me luck!,0.8
+974,975,passion study passion goal research,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+975,976,passion goal career research career goal career career career passion passion,Loved the practical projects.,Celebrating the end of the semester.,0.7
+976,977,research goal passion career career career career study research goal goal passion study,Excellent course!,Excited to start my journey at University XYZ!,1.0
+977,978,goal research career passion research goal study passion goal passion,Great professor and material.,Studying for finals. Wish me luck!,0.8
+978,979,goal career study career goal research career research goal study research goal,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+979,980,career goal career passion goal research passion career,Loved the practical projects.,Celebrating the end of the semester.,0.7
+980,981,research passion study research career goal passion study goal passion research research passion study passion goal goal,Excellent course!,Excited to start my journey at University XYZ!,1.0
+981,982,research passion research study goal career career passion passion career passion goal study study research goal passion passion,Great professor and material.,Studying for finals. Wish me luck!,0.8
+982,983,research research passion passion goal research goal passion career career passion research career research career research career research goal,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+983,984,goal goal passion goal study goal research goal research research study goal goal career career passion,Loved the practical projects.,Celebrating the end of the semester.,0.7
+984,985,study career goal passion study goal goal research,Excellent course!,Excited to start my journey at University XYZ!,1.0
+985,986,career career goal goal career career goal study goal study study goal passion career research goal,Great professor and material.,Studying for finals. Wish me luck!,0.8
+986,987,goal career study research research research passion,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+987,988,study passion study passion goal career research,Loved the practical projects.,Celebrating the end of the semester.,0.7
+988,989,passion passion goal passion career,Excellent course!,Excited to start my journey at University XYZ!,1.0
+989,990,research goal career study study study passion passion study research research passion study research passion study goal,Great professor and material.,Studying for finals. Wish me luck!,0.8
+990,991,study career career goal goal study research goal study passion career research study passion career,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+991,992,study goal career passion goal,Loved the practical projects.,Celebrating the end of the semester.,0.7
+992,993,study study career passion research career career passion research passion study goal study study career study,Excellent course!,Excited to start my journey at University XYZ!,1.0
+993,994,research study research passion career research study career career research research,Great professor and material.,Studying for finals. Wish me luck!,0.8
+994,995,goal career goal study passion career,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+995,996,goal research career goal study career career research career research goal study study,Loved the practical projects.,Celebrating the end of the semester.,0.7
+996,997,career goal research study research goal study study passion goal goal passion research passion goal research study,Excellent course!,Excited to start my journey at University XYZ!,1.0
+997,998,passion research research research passion study research passion goal passion passion passion research passion goal research goal career,Great professor and material.,Studying for finals. Wish me luck!,0.8
+998,999,passion research research passion study study goal passion passion career study,Needs improvement in the grading system.,Attended a fantastic workshop today.,0.0
+999,1000,study passion goal passion goal study career research study goal passion study career goal passion research goal passion,Loved the practical projects.,Celebrating the end of the semester.,0.7
